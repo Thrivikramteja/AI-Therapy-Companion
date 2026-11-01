@@ -1,0 +1,10 @@
+node_modules/
+.env
+data/audio/*.wav
+!data/audio/.gitkeep
+data/db.json
+data/*.db
+data/*.sqlite
+data/*.sqlite-journal
+logs/
+.DS_Store
