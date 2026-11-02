@@ -42,27 +42,44 @@ export class SttService {
     return "Hello Suzie, I wanted to talk about how my week has been.";
   }
 
-  async transcribeWithGroq(audioBuffer, filename) {
-    const formData = new FormData();
-    const blob = new Blob([audioBuffer], { type: 'audio/wav' });
-    formData.append('file', blob, filename || 'audio.wav');
-    formData.append('model', config.groqSttModel);
+    async transcribeWav(audioBuffer, originalFilename = 'audio.wav') {
+      if (!audioBuffer || audioBuffer.length === 0) {
+          const err = new Error('No audio data received.');
+          err.code = 'STT_EMPTY';
+          throw err;
+      }
 
-    const response = await fetch('https://api.groq.com/openai/v1/audio/transcriptions', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${config.groqApiKey}`
-      },
-      body: formData
-    });
+      const hasValidKey =
+          config.groqApiKey &&
+          config.groqApiKey.startsWith('gsk_') &&
+          config.groqApiKey !== 'your_groq_api_key_here';
 
-    if (!response.ok) {
-      const errText = await response.text();
-      throw new Error(`Groq STT failed HTTP ${response.status}: ${errText}`);
-    }
+      if (!hasValidKey) {
+          const err = new Error(
+              'Groq API key is missing. Configure GROQ_API_KEY.'
+          );
+          err.code = 'STT_UNAVAILABLE';
+          throw err;
+      }
 
-    const data = await response.json();
-    return data.text || '';
+      try {
+          const text = await this.transcribeWithGroq(
+              audioBuffer,
+              originalFilename
+          );
+
+          if (!text || !text.trim()) {
+              const err = new Error('No speech detected.');
+              err.code = 'STT_EMPTY';
+              throw err;
+          }
+
+          return text.trim();
+
+      } catch (err) {
+          console.error('[STT] Transcription failed:', err.message);
+          throw err;
+      }
   }
 }
 
