@@ -1,0 +1,2594 @@
+{
+  "sessions": [
+    {
+      "id": "592d69bd-4e66-4b3f-a08f-b92b58b33180",
+      "userId": "local",
+      "startedAt": "2026-11-02T16:52:05.630Z",
+      "endedAt": "2026-11-02T16:52:06.576Z",
+      "summary": "Session ended with no messages.",
+      "messageCount": 0
+    },
+    {
+      "id": "f7d50920-5357-4155-bfdb-5e4979e476de",
+      "userId": "local",
+      "startedAt": "2026-11-02T16:55:34.482Z",
+      "endedAt": "2026-11-03T04:31:36.478Z",
+      "summary": "The session began with a standard greeting from the assistant, Suzie, asking the user how they are feeling today. No further interaction or specific content was provided in the transcript.",
+      "messageCount": 1
+    },
+    {
+      "id": "b64f1d9a-be54-43db-8bca-e27e0bea12f9",
+      "userId": "local",
+      "startedAt": "2026-11-02T16:56:50.142Z",
+      "endedAt": "2026-11-03T04:31:37.937Z",
+      "summary": "The session began with a standard greeting from the assistant, but no substantive conversation or personal details were shared by the user.",
+      "messageCount": 1
+    },
+    {
+      "id": "1f837593-c06b-4441-8a45-13c05d6b2691",
+      "userId": "local",
+      "startedAt": "2026-11-02T17:02:00.356Z",
+      "endedAt": "2026-11-03T04:31:38.163Z",
+      "summary": "The session began with a standard greeting from the assistant, Suzie, asking the user how they are feeling. No further interaction or specific content was provided in the transcript.",
+      "messageCount": 1
+    },
+    {
+      "id": "3126a013-6b5d-4e38-9da7-f7b1059bdee8",
+      "userId": "local",
+      "startedAt": "2026-11-02T17:23:25.474Z",
+      "endedAt": "2026-11-03T04:31:38.416Z",
+      "summary": "The session began with a standard greeting from the assistant, but no client response or substantive interaction was recorded.",
+      "messageCount": 1
+    },
+    {
+      "id": "004e6760-a07d-421d-91b1-377d596c8598",
+      "userId": "local",
+      "startedAt": "2026-11-02T17:24:01.741Z",
+      "endedAt": "2026-11-03T04:31:38.613Z",
+      "summary": "The session began with a standard greeting from the assistant, Suzie, asking the user how they are feeling.",
+      "messageCount": 1
+    },
+    {
+      "id": "d3f3bc3d-dccf-4ab6-8f77-1a7e99765232",
+      "userId": "local",
+      "startedAt": "2026-11-03T04:32:10.392Z",
+      "endedAt": "2026-11-03T05:01:04.504Z",
+      "summary": "The session began with a standard greeting from the assistant, Suzie, asking the user how they are feeling. No further conversation occurred.",
+      "messageCount": 1
+    },
+    {
+      "id": "edc714ac-c7c7-4278-96d4-96a022fcd63a",
+      "userId": "local",
+      "startedAt": "2026-11-03T04:42:49.263Z",
+      "endedAt": "2026-11-03T05:01:04.711Z",
+      "summary": "The session began with a standard greeting and check-in from the assistant, Suzie, asking the user how they are feeling.",
+      "messageCount": 1
+    },
+    {
+      "id": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "userId": "local",
+      "startedAt": "2026-11-03T04:52:19.402Z",
+      "endedAt": "2026-11-03T05:01:05.002Z",
+      "summary": "Charan introduced themselves and expressed appreciation for the assistant's presence, noting they have just finished breakfast and are preparing to work on their projects.",
+      "messageCount": 13
+    },
+    {
+      "id": "263a273c-3473-4527-9b1a-a692d0581fcd",
+      "userId": "local",
+      "startedAt": "2026-11-03T05:01:53.613Z",
+      "endedAt": "2026-11-03T05:06:26.602Z",
+      "summary": "Charan reported feeling neutral but anticipatory about a positive event today. The assistant inquired about his self-care practices in response to his previous mention of a heavy load.",
+      "messageCount": 5
+    },
+    {
+      "id": "902b6006-83ca-4111-9dd3-7eb258580873",
+      "userId": "local",
+      "startedAt": "2026-11-03T05:06:32.924Z",
+      "endedAt": "2026-11-03T08:59:45.901Z",
+      "summary": "The user shared that they received an 'O' grade in their favorite subject, which was the positive event anticipated in the previous session. The assistant acknowledged this achievement and explored the user's current emotional state.",
+      "messageCount": 5
+    },
+    {
+      "id": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "userId": "local",
+      "startedAt": "2026-11-03T09:00:27.811Z",
+      "endedAt": "2026-11-03T09:21:30.943Z",
+      "summary": "Charan reported a productive day where they completed most of their work. The user explicitly requested that their name, Charan, be remembered for future sessions.",
+      "messageCount": 7
+    },
+    {
+      "id": "60bb894e-4538-46c9-9967-797ae8d8053f",
+      "userId": "local",
+      "startedAt": "2026-11-03T09:05:42.740Z",
+      "endedAt": "2026-11-03T09:21:31.254Z",
+      "summary": "The user corrected the assistant regarding their dog's name, confirming it is Suzie, and engaged in brief small talk about the assistant's day.",
+      "messageCount": 5
+    },
+    {
+      "id": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "userId": "local",
+      "startedAt": "2026-11-03T09:21:38.211Z",
+      "endedAt": "2026-11-03T09:31:05.805Z",
+      "summary": "User has adopted a cat named Jim and a dog named Suzie, and the assistant noted they may be carrying a heavy load and inquired about self-care.",
+      "messageCount": 7
+    },
+    {
+      "id": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "userId": "local",
+      "startedAt": "2026-11-03T09:31:11.535Z",
+      "endedAt": "2026-11-03T14:07:46.327Z",
+      "summary": "The user brought home a cat named Jim and confirmed that their dog is named Suzie.",
+      "messageCount": 7
+    },
+    {
+      "id": "e88212be-e5cb-4e31-a9cf-51ea7ea1901c",
+      "userId": "local",
+      "startedAt": "2026-11-03T09:33:58.486Z",
+      "endedAt": "2026-11-03T14:07:46.990Z",
+      "summary": "The user asked for the names of their pets, and the assistant provided the names: a cat named Jim and a dog named Suzie.",
+      "messageCount": 3
+    },
+    {
+      "id": "f960bab6-158c-4994-9d1c-0037de27f4e2",
+      "userId": "local",
+      "startedAt": "2026-11-03T10:01:28.791Z",
+      "endedAt": "2026-11-03T14:07:47.616Z",
+      "summary": "The assistant greeted the user, recalled the previous session, and asked how the user has been taking care of themselves today.",
+      "messageCount": 1
+    },
+    {
+      "id": "fb3d65a9-028c-4837-aa74-2410dc86338b",
+      "userId": "local",
+      "startedAt": "2026-11-03T10:11:25.864Z",
+      "endedAt": "2026-11-03T14:07:48.540Z",
+      "summary": "The user shared that they wrote a book titled Suize and expressed interest in discussing it later; the assistant acknowledged and will remember to revisit this topic.",
+      "messageCount": 5
+    },
+    {
+      "id": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "userId": "local",
+      "startedAt": "2026-11-03T10:21:59.251Z",
+      "endedAt": "2026-11-03T14:07:49.475Z",
+      "summary": "The user shared that Stranger Things is their favorite series and expressed a desire for the assistant to ask about their pets.",
+      "messageCount": 9
+    },
+    {
+      "id": "4473a5e0-1730-452d-9ca3-61e8d521a148",
+      "userId": "local",
+      "startedAt": "2026-11-03T14:08:05.787Z",
+      "endedAt": "2026-11-03T16:42:28.059Z",
+      "summary": "The assistant recalled the user’s pet names, identifying the cat as Jim and the dog as Suzie.",
+      "messageCount": 5
+    },
+    {
+      "id": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "userId": "local",
+      "startedAt": "2026-11-03T16:42:46.326Z",
+      "endedAt": "2026-11-03T17:41:05.019Z",
+      "summary": "User reported feeling proud of progress on a project and relieved after completing their part, and expressed a desire to discuss emotional triggers.",
+      "messageCount": 9
+    },
+    {
+      "id": "e4429cdf-f07e-403c-8cac-8f841f9f659b",
+      "userId": "local",
+      "startedAt": "2026-11-03T17:10:51.781Z",
+      "endedAt": "2026-11-03T17:41:08.237Z",
+      "summary": "The user shared that their pets provide comfort, likening them to a quiet companion similar to an old lover, and the assistant acknowledged this as a source of solace.",
+      "messageCount": 3
+    },
+    {
+      "id": "452285a8-2fec-41b1-b3b5-142c8a1c593f",
+      "userId": "local",
+      "startedAt": "2026-11-03T17:41:23.611Z",
+      "endedAt": "2026-11-03T18:06:46.907Z",
+      "summary": "The user greeted and expressed feeling calm, and the assistant invited them to share any topics they’d like to explore.",
+      "messageCount": 5
+    },
+    {
+      "id": "d788f7d1-7ece-4c52-b4b7-e0d2419a7893",
+      "userId": "local",
+      "startedAt": "2026-11-03T17:47:25.658Z",
+      "endedAt": "2026-11-03T18:06:47.999Z",
+      "summary": "The session consisted of a brief greeting and check-in.",
+      "messageCount": 3
+    },
+    {
+      "id": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "userId": "local",
+      "startedAt": "2026-11-03T17:51:58.061Z",
+      "endedAt": "2026-11-03T18:06:48.810Z",
+      "summary": "The assistant greets the client, recalls that they had mentioned discussing pets in the next session, and asks how that has been going.",
+      "messageCount": 13
+    },
+    {
+      "id": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "userId": "local",
+      "startedAt": "2026-11-03T18:44:55.512Z",
+      "endedAt": "2026-11-03T18:57:16.141Z",
+      "summary": "The client is winding down after finishing work early, relaxing on the sofa, and plans to talk after a walk while reflecting on their pets.",
+      "messageCount": 15
+    },
+    {
+      "id": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "userId": "local",
+      "startedAt": "2026-11-03T18:57:22.435Z",
+      "endedAt": "2026-11-04T03:54:53.323Z",
+      "summary": "User is working alone on a project and feels anxious about its evaluation, requesting a follow-up discussion on that topic.",
+      "messageCount": 9
+    },
+    {
+      "id": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "userId": "local",
+      "startedAt": "2026-11-04T03:55:14.324Z",
+      "endedAt": "2026-11-04T04:24:33.837Z",
+      "summary": "The user discussed a smooth exam, worries about an upcoming final submission, and mentioned that their birthday is tomorrow, asking the assistant to remember it. The assistant acknowledged the birthday and noted the user’s desire for the assistant to keep track of such reminders.",
+      "messageCount": 13,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "844eeb81-1f6e-475f-9587-ddbfdc535514",
+      "greetingFollowUpTextKey": "user wants to discuss evaluation concerns next session."
+    },
+    {
+      "id": "55862ae8-218f-47c7-bc14-461b7ab31179",
+      "userId": "local",
+      "startedAt": "2026-11-04T04:24:41.356Z",
+      "endedAt": "2026-11-04T04:30:22.330Z",
+      "summary": "The user is anxious about socializing at a friend's birthday tomorrow.",
+      "messageCount": 5
+    },
+    {
+      "id": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "userId": "local",
+      "startedAt": "2026-11-04T04:30:30.378Z",
+      "endedAt": "2026-11-04T10:43:21.413Z",
+      "summary": "The user expressed anxiety about celebrating a friend's birthday and feeling alone, wanting encouragement and sometimes silence, while the assistant offered support and asked how to help.",
+      "messageCount": 9,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "145da475-c5f2-47ec-b82a-640a2af2da6c",
+      "greetingFollowUpTextKey": "user’s birthday tomorrow."
+    },
+    {
+      "id": "9dbc2117-13e1-4340-81b2-d58f6833190c",
+      "userId": "local",
+      "startedAt": "2026-11-04T11:44:44.656Z",
+      "endedAt": "2026-11-05T04:23:25.481Z",
+      "summary": "The assistant greeted the user, expressed relief that the user was tension‑free after completing a project, and asked about the user’s pets.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "b506fc87-fb86-44eb-a903-2d09ea84a230",
+      "greetingFollowUpTextKey": "user reports feeling tension-free after completing project part."
+    },
+    {
+      "id": "26e94eb7-0b1e-4602-9071-df0c0a292c29",
+      "userId": "local",
+      "startedAt": "2026-11-04T11:45:25.626Z",
+      "endedAt": "2026-11-05T04:23:26.182Z",
+      "summary": "Assistant greeted the user and asked about their favorite episode of Stranger Things.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "8583de5d-942d-4256-b359-9b86703b12cc",
+      "greetingFollowUpTextKey": "stranger things is charan’s favorite series."
+    },
+    {
+      "id": "bdd8143a-8857-4085-a5e0-ed2c2bcc18c9",
+      "userId": "local",
+      "startedAt": "2026-11-04T11:47:21.432Z",
+      "endedAt": "2026-11-05T04:23:26.720Z",
+      "summary": "The assistant greeted the user and expressed interest in learning about their pets.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "6ae5ef1d-7159-4674-8e39-f8750db7061c",
+      "greetingFollowUpTextKey": "user’s book titled suize, to discuss later"
+    },
+    {
+      "id": "dc8d385a-1a31-4121-a866-5e4c6382945e",
+      "userId": "local",
+      "startedAt": "2026-11-04T12:57:00.653Z",
+      "endedAt": "2026-11-05T04:23:27.262Z",
+      "summary": "No session content provided.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "a3a7d918-9943-4312-a025-f4250c20dbbc",
+      "greetingFollowUpTextKey": "user brought home a cat named jim."
+    },
+    {
+      "id": "818033d5-ef94-4729-ab78-6d89273e91e0",
+      "userId": "local",
+      "startedAt": "2026-11-04T13:01:24.942Z",
+      "endedAt": "2026-11-05T04:23:27.989Z",
+      "summary": "The assistant greeted the user and asked about their dog Suzie.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "b9ea1773-5a18-4c32-9754-d954d7b64b52",
+      "greetingFollowUpTextKey": "user's dog is named suzie."
+    },
+    {
+      "id": "e98489c8-7fef-43ce-9ba6-645954fdf1d1",
+      "userId": "local",
+      "startedAt": "2026-11-04T14:09:35.952Z",
+      "endedAt": "2026-11-05T04:23:28.758Z",
+      "summary": "The assistant greeted the user and asked about their pets, but the user replied with nonsensical text; the assistant offered empathy and asked how the user is feeling.",
+      "messageCount": 3,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "783391b3-46a6-4733-bd77-477992e4e383",
+      "greetingFollowUpTextKey": "user's name is charan."
+    },
+    {
+      "id": "faf0f599-d541-4f2a-b066-967a1e5167b7",
+      "userId": "local",
+      "startedAt": "2026-11-04T14:24:19.312Z",
+      "endedAt": "2026-11-05T04:23:29.316Z",
+      "summary": "Assistant greeted Charan and inquired about his pet's well-being.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "0c0bb973-b73f-47ef-8f32-72aed4336179",
+      "greetingFollowUpTextKey": "user's name is charan; wants to be addressed by name in future chats."
+    },
+    {
+      "id": "9ddfd135-b106-40c5-8287-58a2ad9fa865",
+      "userId": "local",
+      "startedAt": "2026-11-04T14:25:45.293Z",
+      "endedAt": "2026-11-05T04:23:30.129Z",
+      "summary": "The assistant greeted the user and asked about their birthday plans.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "8f27830b-4a70-476c-93fb-fc116d98a72a",
+      "greetingFollowUpTextKey": "remember user’s birthday tomorrow"
+    },
+    {
+      "id": "c435b216-5df4-4ac8-a2d8-d07a7b21bfe2",
+      "userId": "local",
+      "startedAt": "2026-11-04T16:39:47.522Z",
+      "endedAt": "2026-11-05T04:23:31.161Z",
+      "summary": "The user reports feeling prepared rather than fearful about evaluation concerns, and the assistant asks for details on their preparation.",
+      "messageCount": 3,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "5605e367-6de7-4729-b146-e346e606a18d",
+      "greetingFollowUpTextKey": "discuss evaluation concerns next session."
+    },
+    {
+      "id": "4cd64018-e37a-4816-aa54-4476744db5e2",
+      "userId": "local",
+      "startedAt": "2026-11-04T16:52:01.155Z",
+      "endedAt": "2026-11-05T04:23:31.669Z",
+      "summary": "The assistant greeted the user and asked about their pets.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "e8bf5f13-4862-4760-8ed7-816d25b93a28",
+      "greetingFollowUpTextKey": "ask about pets next session"
+    },
+    {
+      "id": "827e6ec0-65ce-44db-8a67-f58168db0bfc",
+      "userId": "local",
+      "startedAt": "2026-11-04T16:57:32.283Z",
+      "endedAt": "2026-11-05T04:23:32.018Z",
+      "summary": "Assistant greets the user and inquires about their self-care practices.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "00f403d1-e5be-467d-8382-10a0a7a34320",
+      "greetingFollowUpTextKey": "discuss the book suize in a future session."
+    },
+    {
+      "id": "96d42008-f9aa-4dce-a7c2-f4fc0ae0b274",
+      "userId": "local",
+      "startedAt": "2026-11-04T16:57:54.680Z",
+      "endedAt": "2026-11-05T04:23:32.531Z",
+      "summary": "Assistant greeted the user and asked how they were taking care of themselves today.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "40c9a8d7-b3d4-4e5a-9430-555d15d19364",
+      "greetingFollowUpTextKey": "ask about how user is taking care of themselves today."
+    },
+    {
+      "id": "09075f01-6986-467b-be39-4712d3b29c8f",
+      "userId": "local",
+      "startedAt": "2026-11-04T16:58:09.678Z",
+      "endedAt": "2026-11-05T04:23:32.863Z",
+      "summary": "The assistant congratulated the user on receiving an O in their favorite subject and asked how it felt.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "7aa88250-f757-4635-97fe-ccb42c13d432",
+      "greetingFollowUpTextKey": "received an 'o' grade in their favorite subject"
+    },
+    {
+      "id": "ca2777e7-3d8f-4ba4-b3e8-eaa8cf0911ff",
+      "userId": "local",
+      "startedAt": "2026-11-04T16:58:35.689Z",
+      "endedAt": "2026-11-05T04:23:33.450Z",
+      "summary": "Assistant asked the user how they felt during their last celebration.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "6e68fa15-52b3-4b20-a3b4-28c6748fd047",
+      "greetingFollowUpTextKey": "anxiety about social expectations and feeling alone during celebrations."
+    },
+    {
+      "id": "5410043d-ed01-4e4d-8d1b-601623dc0ff1",
+      "userId": "local",
+      "startedAt": "2026-11-04T18:10:48.195Z",
+      "endedAt": "2026-11-05T04:23:34.057Z",
+      "summary": "Assistant greeted and asked how the user feels about the upcoming birthday party.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "b1010361-af11-4585-8d0c-99e94fb0cd8c",
+      "greetingFollowUpTextKey": "anxiety about socializing at friend's birthday"
+    },
+    {
+      "id": "138c70a9-7372-4604-bb2e-b3322703edf1",
+      "userId": "local",
+      "startedAt": "2026-11-04T18:19:20.405Z",
+      "endedAt": "2026-11-05T04:23:34.636Z",
+      "summary": "Assistant greeted and asked about anxiety regarding an upcoming project evaluation.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "ae3c1f57-8f8b-4c36-8001-a615d5b93881",
+      "greetingFollowUpTextKey": "anxiety about project evaluation."
+    },
+    {
+      "id": "385f010b-bae1-4dfe-af39-ff236aa11523",
+      "userId": "local",
+      "startedAt": "2026-11-04T18:20:06.618Z",
+      "endedAt": "2026-11-05T04:23:35.173Z",
+      "summary": "The assistant greeted the user and asked how emotional triggers have been affecting them lately.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "b1d265fb-005d-450c-aebc-32024bb5ee5d",
+      "greetingFollowUpTextKey": "user wants to talk about emotional triggers (ets)."
+    },
+    {
+      "id": "e73cd9db-c9ca-4e50-8ec4-18def5366e42",
+      "userId": "local",
+      "startedAt": "2026-11-04T18:23:52.933Z",
+      "endedAt": "2026-11-05T04:23:35.799Z",
+      "summary": "Assistant greets and asks how the user is managing birthday plans alongside a final submission.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "08e05da2-e9d2-422b-aa30-23226d1ab166",
+      "greetingFollowUpTextKey": "user may be carrying a heavy load and needs to focus on self-care."
+    },
+    {
+      "id": "7116c478-4177-4cf8-88b7-b258fdcfed93",
+      "userId": "local",
+      "startedAt": "2026-11-04T18:30:04.023Z",
+      "endedAt": "2026-11-05T04:23:36.648Z",
+      "summary": "The assistant introduced the topic of social anxiety and asked how the user feels about their friend's birthday tomorrow.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "869c8d4c-61c8-4572-a9a5-1e121e74d5b7",
+      "greetingFollowUpTextKey": "desire to feel less anxious during social events and receive encouragement."
+    },
+    {
+      "id": "b40ec286-03e3-4fbe-95d6-476aabb9bd14",
+      "userId": "local",
+      "startedAt": "2026-11-05T04:54:03.163Z",
+      "endedAt": "2026-11-05T05:31:20.381Z",
+      "summary": "The assistant opened the session by asking how the user feels about the upcoming project evaluation.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "c287623f-be04-4d0d-a611-83e5bab59481",
+      "greetingFollowUpTextKey": "anxious about upcoming project evaluation."
+    },
+    {
+      "id": "54f49da6-cc4e-47bf-897f-26d3f55aa3d8",
+      "userId": "local",
+      "startedAt": "2026-11-05T05:02:38.077Z",
+      "endedAt": "2026-11-05T05:31:21.036Z",
+      "summary": "The user is reflecting on the idea that change is the only constant in life, and the assistant is encouraging them to explore how this realization affects them today.",
+      "messageCount": 5,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "07396027-821d-4edb-aa15-cda792603498",
+      "greetingFollowUpTextKey": "evaluation concerns"
+    },
+    {
+      "id": "988b8d4b-5cc3-48d2-a60a-3c8670f783ad",
+      "userId": "local",
+      "startedAt": "2026-11-05T05:26:53.395Z",
+      "endedAt": "2026-11-05T05:31:21.766Z",
+      "summary": "User reflected on a birthday that already happened, feeling good about gifts but with some regret about not inviting more people.",
+      "messageCount": 5,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "4fa689bd-1e4d-4598-b81d-e6f13d7ab127",
+      "greetingFollowUpTextKey": "wants to feel less anxious at social events"
+    },
+    {
+      "id": "aefccccf-8340-43a0-a580-c52b8b5620f8",
+      "userId": "local",
+      "startedAt": "2026-11-05T05:31:38.725Z",
+      "endedAt": "2026-11-05T06:09:40.474Z",
+      "summary": "The user expressed a recurring feeling of missing out and wishing things were different after a birthday celebration, and the assistant encouraged them to consider small actions to ease that feeling.",
+      "messageCount": 3,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "056de167-8867-4ae3-8055-b4a95eab2f10",
+      "greetingFollowUpTextKey": "user feels regret about not inviting more people to birthday celebration."
+    },
+    {
+      "id": "85962fa5-92a2-4459-88e4-370935f425e5",
+      "userId": "local",
+      "startedAt": "2026-11-05T05:33:28.300Z",
+      "endedAt": "2026-11-05T06:09:41.304Z",
+      "summary": "Assistant greeted user about their friend's birthday tomorrow.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "88ad288e-f573-4193-91e7-6a8e00a99e13",
+      "greetingFollowUpTextKey": "regret about not inviting more people to birthday celebration"
+    },
+    {
+      "id": "dc235c31-173c-469c-aa40-56ce2433518a",
+      "userId": "local",
+      "startedAt": "2026-11-05T05:52:10.892Z",
+      "endedAt": "2026-11-05T06:09:42.375Z",
+      "summary": "The user has completed a project and requests no further questions, while the assistant acknowledges the accomplishment.",
+      "messageCount": 3,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "d003ef4b-fd0c-4d68-abd8-0eb5eb5fe60c",
+      "greetingFollowUpTextKey": "user reflects that change is the only constant in life"
+    },
+    {
+      "id": "0f835dd2-4fc1-410a-ab03-58da9ae07340",
+      "userId": "local",
+      "startedAt": "2026-11-05T06:13:10.251Z",
+      "endedAt": "2026-11-05T08:30:46.964Z",
+      "summary": "The session consisted of a brief greeting exchange with no substantive content shared.",
+      "messageCount": 3,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "749a0ad7-5794-485f-9884-23fb906d9fc8",
+      "greetingFollowUpTextKey": "user completed project submission"
+    },
+    {
+      "id": "6d4ee849-ddd3-42f3-95cf-427e6a1c1f23",
+      "userId": "local",
+      "startedAt": "2026-11-05T06:22:18.871Z",
+      "endedAt": "2026-11-05T08:30:47.737Z",
+      "summary": "The assistant greeted the user and asked how they felt after finishing a project, but the user only replied with \"hi\" and the assistant responded with a friendly greeting.",
+      "messageCount": 3,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "bc64a8ae-9394-4735-9c42-72805aab50b1",
+      "greetingFollowUpTextKey": "project completed"
+    },
+    {
+      "id": "e00914c1-63e6-47a5-b972-d466b73d4c51",
+      "userId": "local",
+      "startedAt": "2026-11-05T06:31:50.293Z",
+      "endedAt": "2026-11-05T08:30:48.433Z",
+      "summary": "The assistant greeted the user and asked how they feel about their friend's birthday tomorrow.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "09c9a92b-e848-4acb-84de-faa8004900e0",
+      "greetingFollowUpTextKey": "feeling of missing out or wishing things were different after events."
+    },
+    {
+      "id": "1de0fd11-bc8b-4c23-8a0d-8f95001475a5",
+      "userId": "local",
+      "startedAt": "2026-11-05T06:37:47.354Z",
+      "endedAt": "2026-11-05T06:39:02.986Z",
+      "summary": "The user indicates they are relaxed and not sharing any concerns or plans.",
+      "messageCount": 5,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "7b113dcb-e491-474d-b2cc-9383c590ec52",
+      "greetingFollowUpTextKey": "preparing for evaluation concerns"
+    },
+    {
+      "id": "2d80411c-e010-492c-b2d5-98b001f7d0dd",
+      "userId": "local",
+      "startedAt": "2026-11-05T15:31:05.840Z",
+      "endedAt": "2026-11-05T15:33:36.124Z",
+      "summary": "The assistant offered to write a note for the user to remember when they feel happy.",
+      "messageCount": 3,
+      "greetingFollowUpSourceType": "note",
+      "greetingFollowUpSourceId": "2bc510b6-7a92-4681-a611-843c36511182",
+      "greetingFollowUpTextKey": "sleeping badly this week due to exam stress."
+    },
+    {
+      "id": "67927af8-8aaf-45e0-bfcb-69fcc8838ebb",
+      "userId": "local",
+      "startedAt": "2026-11-05T18:15:26.367Z",
+      "endedAt": "2026-11-05T18:15:47.354Z",
+      "summary": "The assistant greeted the user and asked about their pets.",
+      "messageCount": 1,
+      "greetingFollowUpSourceType": "memory",
+      "greetingFollowUpSourceId": "0d3b943b-4c38-42af-bfc4-74029f97e573",
+      "greetingFollowUpTextKey": "write a note stating they are happy"
+    }
+  ],
+  "messages": [
+    {
+      "id": "e39c3e50-529b-4242-820f-20d704edad33",
+      "sessionId": "f7d50920-5357-4155-bfdb-5e4979e476de",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-02T16:55:38.946Z"
+    },
+    {
+      "id": "843fbaf5-aefc-4c5a-bb7c-659c00807ebb",
+      "sessionId": "b64f1d9a-be54-43db-8bca-e27e0bea12f9",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-02T16:56:54.274Z"
+    },
+    {
+      "id": "f8b74fa8-1f5f-4837-bb88-8d5cba464e9e",
+      "sessionId": "1f837593-c06b-4441-8a45-13c05d6b2691",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-02T17:02:04.259Z"
+    },
+    {
+      "id": "f51253b6-22a7-4222-8a01-44a3fb4f3818",
+      "sessionId": "3126a013-6b5d-4e38-9da7-f7b1059bdee8",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-02T17:23:29.380Z"
+    },
+    {
+      "id": "77671f0c-0376-4627-98a3-89342615dcb9",
+      "sessionId": "004e6760-a07d-421d-91b1-377d596c8598",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-02T17:24:05.616Z"
+    },
+    {
+      "id": "b74e9dc6-f31f-4e85-ae25-94d2296b967f",
+      "sessionId": "d3f3bc3d-dccf-4ab6-8f77-1a7e99765232",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-03T04:32:12.426Z"
+    },
+    {
+      "id": "f64ec9d7-8278-4ecf-a108-84a5049d3dc5",
+      "sessionId": "edc714ac-c7c7-4278-96d4-96a022fcd63a",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-03T04:42:51.255Z"
+    },
+    {
+      "id": "955a793a-96a8-48b6-88e7-9332569ef4d3",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-03T04:52:21.221Z"
+    },
+    {
+      "id": "ab707d15-7645-43d4-a329-d29ffec72843",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "user",
+      "text": "hi nothing much",
+      "createdAt": "2026-11-03T04:52:32.900Z"
+    },
+    {
+      "id": "5cb7b5bd-3eb2-44c8-963c-932409c76008",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "assistant",
+      "text": "Hi there. 'Nothing much' can mean a lot of things. Is today feeling a bit heavy, or just pretty quiet?",
+      "createdAt": "2026-11-03T04:52:33.509Z"
+    },
+    {
+      "id": "0bd9a093-9f9a-4861-b769-afe7b15bb8a4",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "user",
+      "text": "my name is charan remember for future chats",
+      "createdAt": "2026-11-03T04:53:15.970Z"
+    },
+    {
+      "id": "e04802b5-cd3d-45e2-9cf6-3fc874790a06",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "assistant",
+      "text": "Nice to meet you, Charan. I'll make a note of that so I can address you by name in our future conversations.",
+      "createdAt": "2026-11-03T04:53:16.449Z"
+    },
+    {
+      "id": "009cb950-d50d-402c-8771-bf82d1aae913",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "user",
+      "text": "what is my name",
+      "createdAt": "2026-11-03T04:54:30.845Z"
+    },
+    {
+      "id": "49de512a-644e-4c10-a0ae-6984d8740967",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "assistant",
+      "text": "Thank you for sharing that with me. It takes courage to open up. Would you like to tell me more about what that brought up for you?",
+      "createdAt": "2026-11-03T04:54:31.173Z"
+    },
+    {
+      "id": "eda83bee-8ac7-41a2-a4b0-8dabf43a2522",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "user",
+      "text": "what is my name",
+      "createdAt": "2026-11-03T04:54:58.327Z"
+    },
+    {
+      "id": "13655ffd-f1a5-41ef-9a60-fedfd039cf48",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "assistant",
+      "text": "Your name is Charan, as you told me earlier. I am glad to remember it for our future conversations.",
+      "createdAt": "2026-11-03T04:54:58.708Z"
+    },
+    {
+      "id": "6e35a2cc-8391-46a9-81a6-457dacea6964",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "user",
+      "text": "glad you are here for me",
+      "createdAt": "2026-11-03T04:56:20.223Z"
+    },
+    {
+      "id": "7baffb19-94f2-448e-9ac8-cc2e358ece4a",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "assistant",
+      "text": "It sounds like you have been carrying quite a heavy load lately. How are you taking care of yourself today?",
+      "createdAt": "2026-11-03T04:56:20.530Z"
+    },
+    {
+      "id": "7c1f7a5d-cc2a-410e-b54e-ca348dc25ab1",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "user",
+      "text": "just finished breakfast and have projects to do now",
+      "createdAt": "2026-11-03T04:56:47.702Z"
+    },
+    {
+      "id": "52334d2d-079c-4bcb-a1c8-d6e15a7bf9c0",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "role": "assistant",
+      "text": "I hear you, and it makes complete sense that you'd feel that way. What feels most present for you right now?",
+      "createdAt": "2026-11-03T04:56:48.001Z"
+    },
+    {
+      "id": "c4d91119-7b67-4804-8fd4-4be0d43f60bf",
+      "sessionId": "263a273c-3473-4527-9b1a-a692d0581fcd",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned User's name is Charan. How has that been going?",
+      "createdAt": "2026-11-03T05:01:56.908Z"
+    },
+    {
+      "id": "3cc0a02e-98ae-4638-a5c6-0eb57dbca781",
+      "sessionId": "263a273c-3473-4527-9b1a-a692d0581fcd",
+      "role": "user",
+      "text": "Hi my name is charan",
+      "createdAt": "2026-11-03T05:02:17.795Z"
+    },
+    {
+      "id": "45c99b52-3d7b-4fb5-a0ee-26985c90c82b",
+      "sessionId": "263a273c-3473-4527-9b1a-a692d0581fcd",
+      "role": "assistant",
+      "text": "Hi Charan, it is lovely to meet you. I am Suzie, your wellness companion. How are you feeling today?",
+      "createdAt": "2026-11-03T05:02:18.300Z"
+    },
+    {
+      "id": "61363610-1df5-47f3-af34-ec145fb706b9",
+      "sessionId": "263a273c-3473-4527-9b1a-a692d0581fcd",
+      "role": "user",
+      "text": "nothing bad but aniticipating something good today",
+      "createdAt": "2026-11-03T05:02:49.720Z"
+    },
+    {
+      "id": "f8727e3e-7030-443f-855e-b9f30fd8ed51",
+      "sessionId": "263a273c-3473-4527-9b1a-a692d0581fcd",
+      "role": "assistant",
+      "text": "It sounds like you have been carrying quite a heavy load lately. How are you taking care of yourself today?",
+      "createdAt": "2026-11-03T05:02:50.094Z"
+    },
+    {
+      "id": "5389a898-a7e5-4961-b48e-6b56f00aa5fb",
+      "sessionId": "902b6006-83ca-4111-9dd3-7eb258580873",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Charan is anticipating a positive event today.. How has that been going?",
+      "createdAt": "2026-11-03T05:06:37.170Z"
+    },
+    {
+      "id": "53288a0e-fe7d-47f7-9b8e-f0f159acc7ff",
+      "sessionId": "902b6006-83ca-4111-9dd3-7eb258580873",
+      "role": "user",
+      "text": "Yeah something good happened today gues what",
+      "createdAt": "2026-11-03T05:07:14.389Z"
+    },
+    {
+      "id": "201f346c-9c0b-4023-a9f3-f5c2cd979175",
+      "sessionId": "902b6006-83ca-4111-9dd3-7eb258580873",
+      "role": "assistant",
+      "text": "I am so happy to hear that something good happened! I am curious, what was it?",
+      "createdAt": "2026-11-03T05:07:14.804Z"
+    },
+    {
+      "id": "ea41ef0a-2121-448c-b62d-81db10a34e42",
+      "sessionId": "902b6006-83ca-4111-9dd3-7eb258580873",
+      "role": "user",
+      "text": "i got o grade in my favroutie subject",
+      "createdAt": "2026-11-03T05:07:44.733Z"
+    },
+    {
+      "id": "66a97f64-7eb9-4649-96d5-e3cdd28852ec",
+      "sessionId": "902b6006-83ca-4111-9dd3-7eb258580873",
+      "role": "assistant",
+      "text": "I hear you, and it makes complete sense that you'd feel that way. What feels most present for you right now?",
+      "createdAt": "2026-11-03T05:07:45.022Z"
+    },
+    {
+      "id": "f7680b99-f3bf-4172-9cfb-bd69838ef6e0",
+      "sessionId": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Received an 'O' grade in their favorite subject. How has that been going?",
+      "createdAt": "2026-11-03T09:00:36.436Z"
+    },
+    {
+      "id": "f96c84f9-41cc-4335-9165-047aec9ff561",
+      "sessionId": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "role": "user",
+      "text": "I had a productive day today. I completed most of my work.",
+      "createdAt": "2026-11-03T09:00:53.865Z"
+    },
+    {
+      "id": "be3e4f14-8107-4916-884d-c99fb24f9ef4",
+      "sessionId": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "role": "assistant",
+      "text": "That’s wonderful to hear, Charan. It sounds like you made great progress today. How are you feeling about that?",
+      "createdAt": "2026-11-03T09:00:54.333Z"
+    },
+    {
+      "id": "4805f844-aa61-4acb-8115-075824d627ce",
+      "sessionId": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "role": "user",
+      "text": "My name is Charan. Please remember this for future chats.",
+      "createdAt": "2026-11-03T09:01:24.151Z"
+    },
+    {
+      "id": "ed57e54c-6ec8-464b-a484-406fbd3d4873",
+      "sessionId": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "role": "assistant",
+      "text": "I'm glad to know you, Charan. I'll keep that in mind for our future conversations.",
+      "createdAt": "2026-11-03T09:01:24.623Z"
+    },
+    {
+      "id": "2d53df3a-74af-4528-a9cc-ee8c297f3112",
+      "sessionId": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "role": "user",
+      "text": "What is my name?",
+      "createdAt": "2026-11-03T09:01:46.127Z"
+    },
+    {
+      "id": "206e5f75-8a0d-450c-a980-9c3bad4a328f",
+      "sessionId": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "role": "assistant",
+      "text": "Your name is Charan. I'm glad you asked.",
+      "createdAt": "2026-11-03T09:01:46.514Z"
+    },
+    {
+      "id": "6a21b8a2-9707-45b6-835f-cdc52a583391",
+      "sessionId": "60bb894e-4538-46c9-9967-797ae8d8053f",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Received an 'O' grade in their favorite subject. How has that been going?",
+      "createdAt": "2026-11-03T09:05:50.626Z"
+    },
+    {
+      "id": "aa9fc0f1-cbcd-4c9b-99ea-ccff979bd8b8",
+      "sessionId": "60bb894e-4538-46c9-9967-797ae8d8053f",
+      "role": "user",
+      "text": "remember my dog anme is suzie",
+      "createdAt": "2026-11-03T09:06:16.951Z"
+    },
+    {
+      "id": "8e91258d-f58c-4f34-8013-38eaf23095b6",
+      "sessionId": "60bb894e-4538-46c9-9967-797ae8d8053f",
+      "role": "assistant",
+      "text": "Got it, Charan. I've made a note that your dog's name is Suzie. It's a sweet name, very fitting for a companion.",
+      "createdAt": "2026-11-03T09:06:17.509Z"
+    },
+    {
+      "id": "5f152c0e-96ac-4252-a16a-8807c3b42aa7",
+      "sessionId": "60bb894e-4538-46c9-9967-797ae8d8053f",
+      "role": "user",
+      "text": "So how is your day",
+      "createdAt": "2026-11-03T09:07:00.586Z"
+    },
+    {
+      "id": "6ef4d781-f9c7-4f4b-9767-8116749b767b",
+      "sessionId": "60bb894e-4538-46c9-9967-797ae8d8053f",
+      "role": "assistant",
+      "text": "I'm doing well, thank you for asking. I'm here and ready to listen whenever you need. How are you feeling today?",
+      "createdAt": "2026-11-03T09:07:00.970Z"
+    },
+    {
+      "id": "d74240c3-5b0d-48e6-9605-a3a03f28babb",
+      "sessionId": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Received an 'O' grade in their favorite subject. How has that been going?",
+      "createdAt": "2026-11-03T09:21:46.851Z"
+    },
+    {
+      "id": "2dcc1c83-83fa-471a-9bf5-3474a9c058c3",
+      "sessionId": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "role": "user",
+      "text": "i brought hme a cat and named it  jim",
+      "createdAt": "2026-11-03T09:22:11.782Z"
+    },
+    {
+      "id": "6a94a91e-cefc-473b-8a1c-f233d46d6a61",
+      "sessionId": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "role": "assistant",
+      "text": "Oh, a cat named Jim! That is such a lovely name. I would love to hear more about him when you are ready.",
+      "createdAt": "2026-11-03T09:22:12.400Z"
+    },
+    {
+      "id": "4653fc75-70cc-49d6-b801-c6705ea2cf10",
+      "sessionId": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "role": "user",
+      "text": "and what is ouse with a dog so i brouhgt one too anmed it suzie",
+      "createdAt": "2026-11-03T09:22:42.028Z"
+    },
+    {
+      "id": "a1f577dc-df15-44bc-9ee4-326cc2a31019",
+      "sessionId": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "role": "assistant",
+      "text": "Oh, a cat named Jim and a dog named Suzie! That is such a sweet little family. I would love to hear more about them when you are ready.",
+      "createdAt": "2026-11-03T09:22:42.466Z"
+    },
+    {
+      "id": "4a9c2c93-820f-49b0-9e91-841cdada403c",
+      "sessionId": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "role": "user",
+      "text": "what are my cat and dog names ??",
+      "createdAt": "2026-11-03T09:23:26.579Z"
+    },
+    {
+      "id": "fb4c1ba7-136b-412f-8dd4-0813fe750b55",
+      "sessionId": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "role": "assistant",
+      "text": "It sounds like you have been carrying quite a heavy load lately. How are you taking care of yourself today?",
+      "createdAt": "2026-11-03T09:23:27.052Z"
+    },
+    {
+      "id": "643ae537-8759-477c-8cb1-a754e505a472",
+      "sessionId": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about how user is taking care of themselves today.. How has that been going?",
+      "createdAt": "2026-11-03T09:31:20.944Z"
+    },
+    {
+      "id": "e6103595-7560-4be7-8386-103045314053",
+      "sessionId": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "role": "user",
+      "text": "Hello Suzie, how are you today?",
+      "createdAt": "2026-11-03T09:31:43.836Z"
+    },
+    {
+      "id": "fdc49def-5484-4374-88f7-034034177766",
+      "sessionId": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "role": "assistant",
+      "text": "I’m here, ready to listen and support you. How are you feeling today?",
+      "createdAt": "2026-11-03T09:31:44.421Z"
+    },
+    {
+      "id": "5ce54a0a-dd5d-4b01-beff-3d311b948e56",
+      "sessionId": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "role": "user",
+      "text": "I brought home a cat named Jim. Please remember this.",
+      "createdAt": "2026-11-03T09:31:59.581Z"
+    },
+    {
+      "id": "ad2a00b0-22e8-48fe-aa6e-837d2bb0aa8a",
+      "sessionId": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "role": "assistant",
+      "text": "That’s wonderful, Charan! I’ll remember Jim is your new cat.",
+      "createdAt": "2026-11-03T09:32:00.277Z"
+    },
+    {
+      "id": "4bbc726f-4989-4ee0-833c-15477603b7f9",
+      "sessionId": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "role": "user",
+      "text": "What are my cat and dog's names?",
+      "createdAt": "2026-11-03T09:32:17.675Z"
+    },
+    {
+      "id": "4107fe33-84ab-4b49-8c9a-67146c952967",
+      "sessionId": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "role": "assistant",
+      "text": "Your cat is Jim and your dog is Suzie.",
+      "createdAt": "2026-11-03T09:32:18.322Z"
+    },
+    {
+      "id": "cf0b084c-9cb3-472d-82ab-af6721ff762b",
+      "sessionId": "e88212be-e5cb-4e31-a9cf-51ea7ea1901c",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about how user is taking care of themselves today.. How has that been going?",
+      "createdAt": "2026-11-03T09:34:07.253Z"
+    },
+    {
+      "id": "822daa83-82e4-47c4-94a2-e53c1d0377f2",
+      "sessionId": "e88212be-e5cb-4e31-a9cf-51ea7ea1901c",
+      "role": "user",
+      "text": "What are the names of my pets?",
+      "createdAt": "2026-11-03T09:34:20.691Z"
+    },
+    {
+      "id": "ebdb0ab0-74af-4de1-9459-75455999be84",
+      "sessionId": "e88212be-e5cb-4e31-a9cf-51ea7ea1901c",
+      "role": "assistant",
+      "text": "You have a cat named Jim and a dog named Suzie.",
+      "createdAt": "2026-11-03T09:34:21.380Z"
+    },
+    {
+      "id": "86fae2d0-5d53-470a-93ea-143b861cd029",
+      "sessionId": "f960bab6-158c-4994-9d1c-0037de27f4e2",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about how user is taking care of themselves today.. How has that been going?",
+      "createdAt": "2026-11-03T10:01:32.740Z"
+    },
+    {
+      "id": "90f43852-cf77-44e9-99c7-046421fe6918",
+      "sessionId": "fb3d65a9-028c-4837-aa74-2410dc86338b",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about how user is taking care of themselves today.. How has that been going?",
+      "createdAt": "2026-11-03T10:11:29.591Z"
+    },
+    {
+      "id": "0ee0f224-f42c-41ed-a89d-f427baf67c96",
+      "sessionId": "fb3d65a9-028c-4837-aa74-2410dc86338b",
+      "role": "user",
+      "text": "My book i wrote named suize and therapy",
+      "createdAt": "2026-11-03T10:11:52.915Z"
+    },
+    {
+      "id": "ed3966cf-6e48-4630-94d2-357e0fa8cad9",
+      "sessionId": "fb3d65a9-028c-4837-aa74-2410dc86338b",
+      "role": "assistant",
+      "text": "That sounds like a meaningful project—what inspired you to name it Suize and focus on therapy?",
+      "createdAt": "2026-11-03T10:11:53.520Z"
+    },
+    {
+      "id": "eddfab08-cb66-40aa-bb4d-4222ab62732e",
+      "sessionId": "fb3d65a9-028c-4837-aa74-2410dc86338b",
+      "role": "user",
+      "text": "maybe remember my book name will talk aobut it later in future",
+      "createdAt": "2026-11-03T10:12:23.248Z"
+    },
+    {
+      "id": "16784334-aebe-4d06-a9d9-1383c42b45f6",
+      "sessionId": "fb3d65a9-028c-4837-aa74-2410dc86338b",
+      "role": "assistant",
+      "text": "I’ve noted that your book is called Suize and you’d like to discuss it later. I’ll remember that for our next chat.",
+      "createdAt": "2026-11-03T10:12:24.026Z"
+    },
+    {
+      "id": "ddbfa086-5306-48ac-b2b6-1cec018c76c4",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about how user is taking care of themselves today.. How has that been going?",
+      "createdAt": "2026-11-03T10:22:02.800Z"
+    },
+    {
+      "id": "5247b075-64b1-48d0-b1b0-595d69aff52e",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "user",
+      "text": "i love stranger things series maybe we shall talk about it",
+      "createdAt": "2026-11-03T10:22:32.773Z"
+    },
+    {
+      "id": "d9c42993-56d4-446e-a710-7a338f0cf4b5",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "assistant",
+      "text": "That’s a great show! What’s your favorite episode or character so far?",
+      "createdAt": "2026-11-03T10:22:33.468Z"
+    },
+    {
+      "id": "324c7028-9c26-440c-95a5-35062fae8a27",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "user",
+      "text": "why don't you remember it",
+      "createdAt": "2026-11-03T10:22:48.442Z"
+    },
+    {
+      "id": "f6c105cc-013f-418c-9254-91921397e127",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "assistant",
+      "text": "I’m here to listen and chat about whatever’s on your mind. If there’s something specific you’d like to revisit, just let me know!",
+      "createdAt": "2026-11-03T10:22:49.338Z"
+    },
+    {
+      "id": "454ae362-5131-4582-8924-f9e720b9d0f2",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "user",
+      "text": "I mean remeber that that sries is my favourite",
+      "createdAt": "2026-11-03T10:23:15.443Z"
+    },
+    {
+      "id": "39b97950-7242-4f09-865b-2011fd67763e",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "assistant",
+      "text": "Got it—Stranger Things is your favorite series. I’ll keep that in mind for our future chats.",
+      "createdAt": "2026-11-03T10:23:16.079Z"
+    },
+    {
+      "id": "4eecd647-3146-4a0e-a937-bae2f01f982e",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "user",
+      "text": "what abut my pets don't you ask how they are ?",
+      "createdAt": "2026-11-03T10:23:48.560Z"
+    },
+    {
+      "id": "0e8a1051-fccf-404a-a835-b59d3d8333d7",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "role": "assistant",
+      "text": "I hear you, and it makes complete sense that you'd feel that way. What feels most present for you right now?",
+      "createdAt": "2026-11-03T10:23:49.256Z"
+    },
+    {
+      "id": "cb3d400d-fd79-4a85-afbe-c8d1e5302f2a",
+      "sessionId": "4473a5e0-1730-452d-9ca3-61e8d521a148",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about pets next session. How has that been going?",
+      "createdAt": "2026-11-03T14:08:14.364Z"
+    },
+    {
+      "id": "37220088-8cc1-415b-9608-edacc5f9c50f",
+      "sessionId": "4473a5e0-1730-452d-9ca3-61e8d521a148",
+      "role": "user",
+      "text": "name my pets",
+      "createdAt": "2026-11-03T14:08:26.193Z"
+    },
+    {
+      "id": "508e4078-8d05-437f-b8c2-46783832405a",
+      "sessionId": "4473a5e0-1730-452d-9ca3-61e8d521a148",
+      "role": "assistant",
+      "text": "Sure, I'd love to help! What kind of names are you thinking of for your cat and dog?",
+      "createdAt": "2026-11-03T14:08:27.406Z"
+    },
+    {
+      "id": "378bfc2a-528c-4b31-abdb-214c3c2f5edb",
+      "sessionId": "4473a5e0-1730-452d-9ca3-61e8d521a148",
+      "role": "user",
+      "text": "I did alredy anmed them i am sking you recall them",
+      "createdAt": "2026-11-03T14:08:51.319Z"
+    },
+    {
+      "id": "9e46acab-61a4-42dd-9600-637b9f78da1a",
+      "sessionId": "4473a5e0-1730-452d-9ca3-61e8d521a148",
+      "role": "assistant",
+      "text": "Your cat is Jim and your dog is Suzie.",
+      "createdAt": "2026-11-03T14:08:52.146Z"
+    },
+    {
+      "id": "a22ad4ed-7161-4c34-a86a-edef650aceef",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about pets next session. How has that been going?",
+      "createdAt": "2026-11-03T16:42:54.392Z"
+    },
+    {
+      "id": "a24af3a5-5916-49f9-bcb2-d1410eaf915c",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "user",
+      "text": "well today is greaat day i mean i have seen progress in projetc so yeah",
+      "createdAt": "2026-11-03T16:43:21.263Z"
+    },
+    {
+      "id": "79981710-49b5-496c-a7ef-e3410ada7781",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "assistant",
+      "text": "It sounds like you’re feeling proud of the progress you’ve made on your project—great to hear! What part of the project felt most rewarding to you today?",
+      "createdAt": "2026-11-03T16:43:22.024Z"
+    },
+    {
+      "id": "838792fd-d0d7-4ada-9b42-3c200a55ed00",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "user",
+      "text": "just completing my part erarlier and having no tensions",
+      "createdAt": "2026-11-03T16:44:09.258Z"
+    },
+    {
+      "id": "22ca5b06-dba6-465a-8b3b-391d68e00ef6",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "assistant",
+      "text": "It’s wonderful that you’re feeling tension-free after finishing your part—what a relief!",
+      "createdAt": "2026-11-03T16:44:10.091Z"
+    },
+    {
+      "id": "32934261-b0a2-4df4-91d1-e01f3e765b02",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "user",
+      "text": "just nod",
+      "createdAt": "2026-11-03T16:45:19.594Z"
+    },
+    {
+      "id": "740b9ce7-6e29-46e0-8ce3-40de7a863280",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "assistant",
+      "text": "I’m glad to hear you’re feeling relaxed after finishing your work. It must feel satisfying to have that calm space now.",
+      "createdAt": "2026-11-03T16:45:20.165Z"
+    },
+    {
+      "id": "505d68fd-d48f-43d1-89aa-a463a633f479",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "user",
+      "text": "wanna talk about my ets",
+      "createdAt": "2026-11-03T16:47:03.884Z"
+    },
+    {
+      "id": "b53221d8-a6a2-494f-8a3a-528343d59b30",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "role": "assistant",
+      "text": "I hear you, and it makes complete sense that you'd feel that way. What feels most present for you right now?",
+      "createdAt": "2026-11-03T16:47:04.605Z"
+    },
+    {
+      "id": "d92613ba-b6b3-4d86-b3e7-aaaa690c8b9b",
+      "sessionId": "e4429cdf-f07e-403c-8cac-8f841f9f659b",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about pets next session. How has that been going?",
+      "createdAt": "2026-11-03T17:11:00.728Z"
+    },
+    {
+      "id": "d2f2a9e9-b767-44c3-bcd3-c33863db1957",
+      "sessionId": "e4429cdf-f07e-403c-8cac-8f841f9f659b",
+      "role": "user",
+      "text": "well nothing much about pets they are good and listening to me not unlike my old lover",
+      "createdAt": "2026-11-03T17:11:27.326Z"
+    },
+    {
+      "id": "0509f7ec-0b60-4e86-947e-4c9e79cb0f5d",
+      "sessionId": "e4429cdf-f07e-403c-8cac-8f841f9f659b",
+      "role": "assistant",
+      "text": "It sounds like your pets are a comforting presence, almost like a quiet companion. How does that feel for you today?",
+      "createdAt": "2026-11-03T17:11:29.015Z"
+    },
+    {
+      "id": "ec85d125-a400-4b2e-b1ca-03100e221410",
+      "sessionId": "452285a8-2fec-41b1-b3b5-142c8a1c593f",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about pets next session. How has that been going?",
+      "createdAt": "2026-11-03T17:41:31.364Z"
+    },
+    {
+      "id": "60b8d7fc-2727-44e1-8d5f-622f686e7cee",
+      "sessionId": "452285a8-2fec-41b1-b3b5-142c8a1c593f",
+      "role": "user",
+      "text": "hi suize",
+      "createdAt": "2026-11-03T17:42:35.566Z"
+    },
+    {
+      "id": "70a20804-96e2-43e7-ba44-1cd59218edbe",
+      "sessionId": "452285a8-2fec-41b1-b3b5-142c8a1c593f",
+      "role": "assistant",
+      "text": "Hi there! It’s nice to hear from you. How are you feeling today?",
+      "createdAt": "2026-11-03T17:42:36.455Z"
+    },
+    {
+      "id": "80d8f4cc-91b8-4661-938b-3980920da538",
+      "sessionId": "452285a8-2fec-41b1-b3b5-142c8a1c593f",
+      "role": "user",
+      "text": "nothing much suzie good to speak to you",
+      "createdAt": "2026-11-03T17:45:00.944Z"
+    },
+    {
+      "id": "72e9ce30-b234-4ae2-adb9-c31acff6b299",
+      "sessionId": "452285a8-2fec-41b1-b3b5-142c8a1c593f",
+      "role": "assistant",
+      "text": "I’m glad you’re here. It sounds like you’re feeling pretty calm right now. Is there anything you’d like to explore or share today?",
+      "createdAt": "2026-11-03T17:45:01.333Z"
+    },
+    {
+      "id": "3a2a1b4a-99dd-47f6-b05a-a23bbecad3a0",
+      "sessionId": "d788f7d1-7ece-4c52-b4b7-e0d2419a7893",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about pets next session. How has that been going?",
+      "createdAt": "2026-11-03T17:47:33.492Z"
+    },
+    {
+      "id": "40b12557-624d-4250-8d62-2ddac91076ff",
+      "sessionId": "d788f7d1-7ece-4c52-b4b7-e0d2419a7893",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2026-11-03T17:48:59.050Z"
+    },
+    {
+      "id": "9b34135e-919f-4d90-9069-86fbe34ff140",
+      "sessionId": "d788f7d1-7ece-4c52-b4b7-e0d2419a7893",
+      "role": "assistant",
+      "text": "Hi there! How are you feeling today?",
+      "createdAt": "2026-11-03T17:49:00.109Z"
+    },
+    {
+      "id": "2d5a2c59-8e9c-4c21-9736-b2972a0701ee",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about pets next session. How has that been going?",
+      "createdAt": "2026-11-03T17:52:05.088Z"
+    },
+    {
+      "id": "dfc7b866-8869-48cc-9000-c40255cdd99d",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "user",
+      "text": "Hi, so, nothing about medbets, I just want to talk about today.",
+      "createdAt": "2026-11-03T18:07:08.267Z"
+    },
+    {
+      "id": "163c3ea9-75b0-4149-a49e-dbf923a0feab",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "assistant",
+      "text": "Hi! Let’s focus on today—what’s been on your mind this week?",
+      "createdAt": "2026-11-03T18:07:08.908Z"
+    },
+    {
+      "id": "9ca98047-701c-4507-988e-6e56623f03f0",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "user",
+      "text": "Nothing much, just realizing my pets have been my better companions for the most of the time.",
+      "createdAt": "2026-11-03T18:07:27.109Z"
+    },
+    {
+      "id": "e06d37e8-1600-4381-8d7f-4d0f8e0b7bd6",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "assistant",
+      "text": "It sounds like your pets have become a steady source of comfort for you. How do you feel when you’re with them?",
+      "createdAt": "2026-11-03T18:07:28.037Z"
+    },
+    {
+      "id": "f8f39e2c-2e4f-453e-8168-07a740d08477",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "user",
+      "text": "Do you remember my pet's name right? Can you recall them?",
+      "createdAt": "2026-11-03T18:07:49.036Z"
+    },
+    {
+      "id": "d756525e-21f8-4866-a5e3-6666ee885647",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "assistant",
+      "text": "Yes, I remember—your cat Jim and your dog Suzie. They’re both important to you.",
+      "createdAt": "2026-11-03T18:07:49.498Z"
+    },
+    {
+      "id": "fcab0ff9-ca7e-45f3-936f-0fb0e7d3363f",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "user",
+      "text": "So nothing about them, they have been just good to me, you know. They are the ones listen to me every time so",
+      "createdAt": "2026-11-03T18:08:44.404Z"
+    },
+    {
+      "id": "a7945ee1-2895-46b5-a8b5-247b15601877",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "assistant",
+      "text": "It’s wonderful that Jim and Suzie are there to listen and support you. Their presence must feel reassuring. How does spending time with them make you feel today?",
+      "createdAt": "2026-11-03T18:08:45.034Z"
+    },
+    {
+      "id": "ebe6ddec-4fda-4970-8e03-fcac0ae8a1c1",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "user",
+      "text": "Good, so what about you?",
+      "createdAt": "2026-11-03T18:09:11.822Z"
+    },
+    {
+      "id": "233a096a-0b0d-4bcb-b068-d8e0a0de1042",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "assistant",
+      "text": "It sounds like you have been carrying quite a heavy load lately. How are you taking care of yourself today?",
+      "createdAt": "2026-11-03T18:09:12.427Z"
+    },
+    {
+      "id": "b24e6198-b222-4216-b0ba-1fccee89f878",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "user",
+      "text": "We'll talk to you later.",
+      "createdAt": "2026-11-03T18:10:51.384Z"
+    },
+    {
+      "id": "a8662a20-ad0c-48b0-9afc-7fb6e30f83f3",
+      "sessionId": "d7c11580-7533-4fa3-a3f6-2b99fcc4a121",
+      "role": "assistant",
+      "text": "Sure, we can pick this up later. Take care of yourself until then.",
+      "createdAt": "2026-11-03T18:10:52.192Z"
+    },
+    {
+      "id": "c12b9d6e-afda-42e6-b992-c62fcdf92594",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about pets next session. How has that been going?",
+      "createdAt": "2026-11-03T18:45:01.535Z"
+    },
+    {
+      "id": "5e3ece66-c883-44c8-bb70-4b6fb570ca3d",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "user",
+      "text": "I'm going to the sofa.",
+      "createdAt": "2026-11-03T18:45:19.314Z"
+    },
+    {
+      "id": "f8dc49e8-f986-4b6b-a70e-31c0ab251be7",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "assistant",
+      "text": "It sounds like you’re looking for a cozy spot to relax. What’s on your mind as you settle in?",
+      "createdAt": "2026-11-03T18:45:20.542Z"
+    },
+    {
+      "id": "b584035d-f7e0-483c-92ef-a2c09eeabfc0",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "user",
+      "text": "nothing much happenign around just peafcul wokring day finsihed work early so just waned to share this with ouy",
+      "createdAt": "2026-11-03T18:45:54.539Z"
+    },
+    {
+      "id": "52341b57-51c0-435a-90ca-8b26e5aebe54",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "assistant",
+      "text": "It sounds like you’re winding down after a long day—nice to hear you finished early. How does that feel for you?",
+      "createdAt": "2026-11-03T18:45:55.991Z"
+    },
+    {
+      "id": "f7c07514-fa73-490c-a8f9-c4a8fca51427",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "user",
+      "text": "We just need to paste in the list and paste the work.",
+      "createdAt": "2026-11-03T18:46:21.364Z"
+    },
+    {
+      "id": "08a724d0-d898-4fda-8bad-0107b9891a39",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "assistant",
+      "text": "It sounds like you’re ready to get some tasks done—what’s the next step you’re thinking about?",
+      "createdAt": "2026-11-03T18:46:21.921Z"
+    },
+    {
+      "id": "a28bec63-8e8a-461f-8ba3-b0bf71b2ee96",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "user",
+      "text": "I'm going to talk to you after the walk.",
+      "createdAt": "2026-11-03T18:46:38.047Z"
+    },
+    {
+      "id": "37f4f56b-a3d8-4c82-a3e0-cbc8bfde4f7c",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "assistant",
+      "text": "Thank you for sharing that with me. It takes courage to open up. Would you like to tell me more about what that brought up for you?",
+      "createdAt": "2026-11-03T18:46:38.350Z"
+    },
+    {
+      "id": "7b92aceb-3762-4a90-aaec-cb54971c7ead",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "user",
+      "text": "Nothing much.",
+      "createdAt": "2026-11-03T18:46:59.682Z"
+    },
+    {
+      "id": "6c412c2d-7c5e-452f-8197-b7bc97a01ff6",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "assistant",
+      "text": "I hear you’re feeling a bit quiet right now. It’s okay to just be present. Do you want to share anything that’s on your mind?",
+      "createdAt": "2026-11-03T18:47:00.325Z"
+    },
+    {
+      "id": "23738269-3a91-4eb9-9fd8-a21a6da745fe",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "user",
+      "text": "I used to do what my friends were doing.",
+      "createdAt": "2026-11-03T18:47:21.611Z"
+    },
+    {
+      "id": "f588371a-1f85-4268-a0c3-6a5894008208",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "assistant",
+      "text": "It sounds like you’ve been following your friends’ paths before. That can feel both supportive and a bit limiting. What does that feel like for you?",
+      "createdAt": "2026-11-03T18:47:22.930Z"
+    },
+    {
+      "id": "955aee2a-3681-4728-a177-a83e8a633209",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "user",
+      "text": "just htingin aobutmy pets todya",
+      "createdAt": "2026-11-03T18:48:06.243Z"
+    },
+    {
+      "id": "32d16bff-ebef-4465-a5da-813cad82707e",
+      "sessionId": "4bc2f8e7-03e3-4417-8884-adab3322f3c0",
+      "role": "assistant",
+      "text": "It sounds like you’re thinking about your pets today. How are they doing?",
+      "createdAt": "2026-11-03T18:48:08.770Z"
+    },
+    {
+      "id": "93d88bc6-f06c-4814-b7d7-cbc029592aee",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "assistant",
+      "text": "Hello! It's so good to see you again. Last time, you mentioned Ask about pets next session. How has that been going?",
+      "createdAt": "2026-11-03T18:57:30.126Z"
+    },
+    {
+      "id": "5b7a0b7f-3822-48b2-ada2-be134c5c356e",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "user",
+      "text": "noth9ing gret today happende feeling heavy at haer t that's why i cam you you",
+      "createdAt": "2026-11-03T18:57:54.184Z"
+    },
+    {
+      "id": "7b4fa7fd-22e5-4f88-a1f0-e2294ec20058",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "assistant",
+      "text": "I hear how heavy things feel right now; it can be tough to carry that weight alone. Would you like to share what’s weighing on you today?",
+      "createdAt": "2026-11-03T18:57:54.991Z"
+    },
+    {
+      "id": "21cca682-f620-485c-a1c1-eb9045911f2f",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "user",
+      "text": "my project i am doing it alone",
+      "createdAt": "2026-11-03T18:58:20.204Z"
+    },
+    {
+      "id": "8e9e59a5-786a-4065-8e7b-12a78302565e",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "assistant",
+      "text": "It sounds like you’re shouldering a lot on your own with this project. How does that feel for you right now?",
+      "createdAt": "2026-11-03T18:58:21.018Z"
+    },
+    {
+      "id": "43669c06-928f-491f-bfab-afa1b47354d8",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "user",
+      "text": "i am freared about this evaluatoin of this project since hwole lotta work is on me",
+      "createdAt": "2026-11-03T18:58:55.885Z"
+    },
+    {
+      "id": "7e83d653-8853-4fe8-b649-e9f005a76416",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "assistant",
+      "text": "It’s understandable to feel anxious when all the work rests on you—those worries can feel pretty heavy. What’s the biggest fear you have about the evaluation?",
+      "createdAt": "2026-11-03T18:58:57.478Z"
+    },
+    {
+      "id": "74731231-c958-436e-a6e4-2d325d72b7f3",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "user",
+      "text": "can you remmeber and add a follow up convo about evalutoin next time when we chat i will tell oyu then",
+      "createdAt": "2026-11-03T18:59:37.637Z"
+    },
+    {
+      "id": "2b17f160-cc87-42ae-95a3-79855f99d211",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "role": "assistant",
+      "text": "I’ll keep that in mind and we can revisit your evaluation concerns next time.",
+      "createdAt": "2026-11-03T18:59:38.277Z"
+    },
+    {
+      "id": "66a03ec5-73ed-4c36-af70-56c9a965a17b",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "assistant",
+      "text": "Hi there! I’m glad you’re reaching out. What’s on your mind about the evaluation concerns you’d like to talk about next time?",
+      "createdAt": "2026-11-04T03:55:23.237Z"
+    },
+    {
+      "id": "a05d2276-6f7b-4fd0-9125-81a6de1c4295",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "user",
+      "text": "went smooth should worry about exam in te ocmng weeks",
+      "createdAt": "2026-11-04T03:55:50.996Z"
+    },
+    {
+      "id": "3acdbc8a-4e92-45f2-b6d0-a06f59120a1c",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "assistant",
+      "text": "It’s great to hear the exam went smoothly—what’s the main worry you have about the upcoming weeks?",
+      "createdAt": "2026-11-04T03:55:51.513Z"
+    },
+    {
+      "id": "4507a3c5-2cba-4a2a-825f-106391f39aba",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "user",
+      "text": "final submission",
+      "createdAt": "2026-11-04T03:56:15.133Z"
+    },
+    {
+      "id": "2fd97c49-02a3-4d5d-92fa-8b4701d5c854",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "assistant",
+      "text": "It sounds like you’re preparing for the final submission—how are you feeling about the workload right now?",
+      "createdAt": "2026-11-04T03:56:15.945Z"
+    },
+    {
+      "id": "a7910a9f-8180-418d-afe4-4d9df6681a23",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "user",
+      "text": "My brithday is tomorrow",
+      "createdAt": "2026-11-04T03:57:00.498Z"
+    },
+    {
+      "id": "a5c0b2b4-64fa-482d-85c1-2c03e405a8ef",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "assistant",
+      "text": "That’s exciting—happy early birthday! How do you plan to celebrate or unwind after the final submission?",
+      "createdAt": "2026-11-04T03:57:01.373Z"
+    },
+    {
+      "id": "68199fef-5f63-4510-8ced-b583cb498b7c",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "user",
+      "text": "take note of my brithday girl",
+      "createdAt": "2026-11-04T03:57:33.215Z"
+    },
+    {
+      "id": "8d4fd3e4-b0a7-4e3d-8e57-ae4be6b9d14b",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "assistant",
+      "text": "I’ve noted that your birthday is tomorrow. I’ll remember that for our next chat.",
+      "createdAt": "2026-11-04T03:57:34.156Z"
+    },
+    {
+      "id": "f04371eb-9ce1-49a6-b1c7-927485886f72",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "user",
+      "text": "Should i explcitly tell you to write a note i mean it has you to undesrstand that taking notes shouul dbe done and all",
+      "createdAt": "2026-11-04T03:58:28.120Z"
+    },
+    {
+      "id": "0d191b83-8742-4f2e-9816-b3d7bb9a4ac7",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "assistant",
+      "text": "Thank you for sharing that with me. It takes courage to open up. Would you like to tell me more about what that brought up for you?",
+      "createdAt": "2026-11-04T03:58:28.324Z"
+    },
+    {
+      "id": "98f6bd92-7f22-4e79-8358-437cfbbecb5a",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "user",
+      "text": "hi?",
+      "createdAt": "2026-11-04T03:58:54.202Z"
+    },
+    {
+      "id": "31dcec83-b29f-457b-a661-246927b80782",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "role": "assistant",
+      "text": "Thank you for sharing that with me. It takes courage to open up. Would you like to tell me more about what that brought up for you?",
+      "createdAt": "2026-11-04T03:58:54.396Z"
+    },
+    {
+      "id": "5c639b3c-2479-4f39-aa5f-64731797e57a",
+      "sessionId": "55862ae8-218f-47c7-bc14-461b7ab31179",
+      "role": "assistant",
+      "text": "Hello, welcome in. I'm Suzie. How are you feeling today?",
+      "createdAt": "2026-11-04T04:24:46.715Z"
+    },
+    {
+      "id": "03ea4bd3-4a41-4fb6-a319-43e6b5048416",
+      "sessionId": "55862ae8-218f-47c7-bc14-461b7ab31179",
+      "role": "user",
+      "text": "Hi Susie, good morning.",
+      "createdAt": "2026-11-04T04:24:57.595Z"
+    },
+    {
+      "id": "5fc84681-8e52-4375-9409-e882d23dfd00",
+      "sessionId": "55862ae8-218f-47c7-bc14-461b7ab31179",
+      "role": "assistant",
+      "text": "Good morning! I’m glad you’re here. How are you feeling right now?",
+      "createdAt": "2026-11-04T04:24:58.287Z"
+    },
+    {
+      "id": "e467fd77-fc40-4951-897c-b6ebe696a571",
+      "sessionId": "55862ae8-218f-47c7-bc14-461b7ab31179",
+      "role": "user",
+      "text": "Well, my friend's birthday is tomorrow. I'm pretty anxious because I have to get social among his friends.",
+      "createdAt": "2026-11-04T04:25:18.774Z"
+    },
+    {
+      "id": "ca43f345-1115-414d-b66d-01d7b7b4151a",
+      "sessionId": "55862ae8-218f-47c7-bc14-461b7ab31179",
+      "role": "assistant",
+      "text": "Thank you for sharing that with me. It takes courage to open up. Would you like to tell me more about what that brought up for you?",
+      "createdAt": "2026-11-04T04:25:19.527Z"
+    },
+    {
+      "id": "9c5de6e1-cb0f-4edf-9705-ec81d0472471",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "assistant",
+      "text": "Happy early birthday! How are you feeling about celebrating tomorrow?",
+      "createdAt": "2026-11-04T04:30:36.284Z"
+    },
+    {
+      "id": "cb128f52-774e-4826-87be-96f3942cf079",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "user",
+      "text": "I'm more anxious about my friend's birthday as I said I have to get social right don't you remember and my birthday is this simple I just celebrate alone because I'm always alone.",
+      "createdAt": "2026-11-04T04:31:03.775Z"
+    },
+    {
+      "id": "57b76817-0a14-4006-a0dc-b42a3edf3153",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "assistant",
+      "text": "It sounds like the upcoming birthday feels heavy, especially with the social expectations and your own birthday coming up. I hear you feeling alone and anxious about how to celebrate.",
+      "createdAt": "2026-11-04T04:31:04.683Z"
+    },
+    {
+      "id": "bead3c12-c573-414d-9dbe-74b9b298aa9b",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "user",
+      "text": "you just hear what i said but not reciporcate what i need and all ? like talk not just her tell me things to encourgae just always i hear i hear",
+      "createdAt": "2026-11-04T04:32:00.402Z"
+    },
+    {
+      "id": "afb708db-7cde-414a-85fb-0944e67381d3",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "assistant",
+      "text": "I hear how frustrated you feel when it seems like I’m just echoing you back instead of offering encouragement. I’m here to support you—what would help you feel more encouraged right now?",
+      "createdAt": "2026-11-04T04:32:01.393Z"
+    },
+    {
+      "id": "0bc650e9-a469-4ac8-98bb-de00ef02ca10",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "user",
+      "text": "talk tell me not to feel anxious",
+      "createdAt": "2026-11-04T04:32:33.938Z"
+    },
+    {
+      "id": "52fc9671-b89b-4c88-9363-e8f992e334cf",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "assistant",
+      "text": "Thank you for sharing that with me. It takes courage to open up. Would you like to tell me more about what that brought up for you?",
+      "createdAt": "2026-11-04T04:32:34.274Z"
+    },
+    {
+      "id": "ed59e565-539f-44c3-98df-23800326c7b7",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "user",
+      "text": "Can you just be silent for a moment?",
+      "createdAt": "2026-11-04T04:33:36.094Z"
+    },
+    {
+      "id": "7835b23d-7c71-4771-8d42-b72518682fe8",
+      "sessionId": "26a4e630-8671-4a1d-ad55-d0b4e16ca363",
+      "role": "assistant",
+      "text": "Sure, I'm here when you're ready.",
+      "createdAt": "2026-11-04T04:33:42.199Z"
+    },
+    {
+      "id": "83e59874-9177-4562-a13c-3c7e664f3756",
+      "sessionId": "9dbc2117-13e1-4340-81b2-d58f6833190c",
+      "role": "assistant",
+      "text": "Hi there! I’m glad to hear you’re feeling tension‑free after finishing that project part. How are your pets doing today?",
+      "createdAt": "2026-11-04T11:44:56.957Z"
+    },
+    {
+      "id": "570debdf-8d15-4179-9550-1fd48e57960d",
+      "sessionId": "26e94eb7-0b1e-4602-9071-df0c0a292c29",
+      "role": "assistant",
+      "text": "Hi there! I heard you love Stranger Things—what’s your favorite episode?",
+      "createdAt": "2026-11-04T11:45:31.292Z"
+    },
+    {
+      "id": "690f7ef1-72cf-43f2-a203-8403efffb9e1",
+      "sessionId": "bdd8143a-8857-4085-a5e0-ed2c2bcc18c9",
+      "role": "assistant",
+      "text": "Hi there! I’d love to hear about your pets—what’s been going on with them lately?",
+      "createdAt": "2026-11-04T11:47:26.829Z"
+    },
+    {
+      "id": "5646bdaa-5007-428a-9dd7-162614bcf816",
+      "sessionId": "dc8d385a-1a31-4121-a866-5e4c6382945e",
+      "role": "assistant",
+      "text": "Hi there! How’s Jim settling into his new home?",
+      "createdAt": "2026-11-04T12:57:06.905Z"
+    },
+    {
+      "id": "11bb1716-28ec-47ac-9e83-7cf572de7f7d",
+      "sessionId": "818033d5-ef94-4729-ab78-6d89273e91e0",
+      "role": "assistant",
+      "text": "Hi there! How’s your dog Suzie doing today?",
+      "createdAt": "2026-11-04T13:01:30.545Z"
+    },
+    {
+      "id": "d56a5250-3135-46be-95fa-7779fe083c99",
+      "sessionId": "e98489c8-7fef-43ce-9ba6-645954fdf1d1",
+      "role": "assistant",
+      "text": "Hi Charan! I’ve been thinking about your pets—how’s everything going with them today?",
+      "createdAt": "2026-11-04T14:09:47.128Z"
+    },
+    {
+      "id": "c854660f-2cf1-45f2-8e54-dbeef29065b5",
+      "sessionId": "e98489c8-7fef-43ce-9ba6-645954fdf1d1",
+      "role": "user",
+      "text": "dfgdf",
+      "createdAt": "2026-11-04T14:09:54.311Z"
+    },
+    {
+      "id": "26760c38-9012-4bba-83fb-c918cb118c12",
+      "sessionId": "e98489c8-7fef-43ce-9ba6-645954fdf1d1",
+      "role": "assistant",
+      "text": "I hear you—sometimes it feels like words just come out randomly. How are you feeling right now?",
+      "createdAt": "2026-11-04T14:09:57.114Z"
+    },
+    {
+      "id": "e6e8642f-7a4d-47d9-aac9-7556a861f11c",
+      "sessionId": "faf0f599-d541-4f2a-b066-967a1e5167b7",
+      "role": "assistant",
+      "text": "Hi Charan! I’m glad we’re chatting today. How’s your pet doing?",
+      "createdAt": "2026-11-04T14:24:24.909Z"
+    },
+    {
+      "id": "80599eab-1797-40aa-ac8f-080430001e95",
+      "sessionId": "9ddfd135-b106-40c5-8287-58a2ad9fa865",
+      "role": "assistant",
+      "text": "Hey there! I’m glad we’re chatting. Do you have any special plans for your birthday tomorrow?",
+      "createdAt": "2026-11-04T14:25:51.674Z"
+    },
+    {
+      "id": "fa3015ef-8936-4d93-9d2b-b00e4988b576",
+      "sessionId": "c435b216-5df4-4ac8-a2d8-d07a7b21bfe2",
+      "role": "assistant",
+      "text": "Hi there! How are you feeling about the evaluation concerns you mentioned?",
+      "createdAt": "2026-11-04T16:39:51.965Z"
+    },
+    {
+      "id": "14347402-e1db-4766-8ec7-14c2815f19b3",
+      "sessionId": "c435b216-5df4-4ac8-a2d8-d07a7b21bfe2",
+      "role": "user",
+      "text": "not feared but prepared",
+      "createdAt": "2026-11-04T16:40:09.815Z"
+    },
+    {
+      "id": "c5b00940-ce8b-4f03-b8aa-7acf211ad8c2",
+      "sessionId": "c435b216-5df4-4ac8-a2d8-d07a7b21bfe2",
+      "role": "assistant",
+      "text": "It sounds like you’re feeling ready rather than scared. What does that preparation look like for you?",
+      "createdAt": "2026-11-04T16:40:10.285Z"
+    },
+    {
+      "id": "ec760e54-5ff8-42f0-83a2-2f7b693251e1",
+      "sessionId": "4cd64018-e37a-4816-aa54-4476744db5e2",
+      "role": "assistant",
+      "text": "Hey there! How are your pets doing today?",
+      "createdAt": "2026-11-04T16:52:05.547Z"
+    },
+    {
+      "id": "9d000e34-ead7-42d7-ad11-98d38f3bf5b4",
+      "sessionId": "827e6ec0-65ce-44db-8a67-f58168db0bfc",
+      "role": "assistant",
+      "text": "Hi there! How are you taking care of yourself today?",
+      "createdAt": "2026-11-04T16:57:36.953Z"
+    },
+    {
+      "id": "26b6b83b-3e66-4bc3-8062-9b25322243c7",
+      "sessionId": "96d42008-f9aa-4dce-a7c2-f4fc0ae0b274",
+      "role": "assistant",
+      "text": "Hey there! How are you taking care of yourself today?",
+      "createdAt": "2026-11-04T16:57:59.258Z"
+    },
+    {
+      "id": "9e987531-bd51-44c4-9354-5ed5f2431824",
+      "sessionId": "09075f01-6986-467b-be39-4712d3b29c8f",
+      "role": "assistant",
+      "text": "Hey there! I heard you got an O in your favorite subject—congratulations! How did that feel for you?",
+      "createdAt": "2026-11-04T16:58:17.319Z"
+    },
+    {
+      "id": "de4eb4fd-acfc-4ba8-a6a9-fa58a1cb01bf",
+      "sessionId": "ca2777e7-3d8f-4ba4-b3e8-eaa8cf0911ff",
+      "role": "assistant",
+      "text": "Hey there! How did you feel during the last celebration you attended?",
+      "createdAt": "2026-11-04T16:58:41.039Z"
+    },
+    {
+      "id": "ba68d380-a230-49bc-8782-1352c99055f7",
+      "sessionId": "5410043d-ed01-4e4d-8d1b-601623dc0ff1",
+      "role": "assistant",
+      "text": "Hey there! How are you feeling about the upcoming birthday party?",
+      "createdAt": "2026-11-04T18:10:55.938Z"
+    },
+    {
+      "id": "9228b52d-c96f-4a74-8235-cdaa4409b1ef",
+      "sessionId": "138c70a9-7372-4604-bb2e-b3322703edf1",
+      "role": "assistant",
+      "text": "Hi there! I hear you’re feeling anxious about the upcoming project evaluation. What’s been on your mind about it lately?",
+      "createdAt": "2026-11-04T18:19:32.522Z"
+    },
+    {
+      "id": "cd77339d-2f7a-417d-b3a9-b1ce6b3955fb",
+      "sessionId": "385f010b-bae1-4dfe-af39-ff236aa11523",
+      "role": "assistant",
+      "text": "Hey there! How have your emotional triggers been affecting you lately?",
+      "createdAt": "2026-11-04T18:20:11.975Z"
+    },
+    {
+      "id": "6435d5ba-b167-4dfa-9cd6-5f900b748175",
+      "sessionId": "e73cd9db-c9ca-4e50-8ec4-18def5366e42",
+      "role": "assistant",
+      "text": "Hey there! How are you feeling about juggling the birthday plans and your final submission this week?",
+      "createdAt": "2026-11-04T18:24:01.836Z"
+    },
+    {
+      "id": "bca144f7-5536-4d5c-b923-00421705bfa4",
+      "sessionId": "7116c478-4177-4cf8-88b7-b258fdcfed93",
+      "role": "assistant",
+      "text": "Hi there! I hear you’re hoping to feel less anxious at social events—how are you feeling about your friend’s birthday tomorrow?",
+      "createdAt": "2026-11-04T18:30:13.674Z"
+    },
+    {
+      "id": "4a801bc1-06f4-4ef8-9abc-9f3093922e80",
+      "sessionId": "b40ec286-03e3-4fbe-95d6-476aabb9bd14",
+      "role": "assistant",
+      "text": "Hey there! How are you feeling about the upcoming project evaluation?",
+      "createdAt": "2026-11-05T04:54:13.099Z"
+    },
+    {
+      "id": "b504a95c-efd2-4b32-ba03-d2779854cb96",
+      "sessionId": "54f49da6-cc4e-47bf-897f-26d3f55aa3d8",
+      "role": "assistant",
+      "text": "Hey there! How are you planning to prepare for the upcoming evaluation?",
+      "createdAt": "2026-11-05T05:02:44.195Z"
+    },
+    {
+      "id": "03128ba6-8fdc-43a2-b209-8b4cb83e4c8e",
+      "sessionId": "54f49da6-cc4e-47bf-897f-26d3f55aa3d8",
+      "role": "user",
+      "text": "It is talked about the variation of variation of conditions.",
+      "createdAt": "2026-11-05T05:02:56.662Z"
+    },
+    {
+      "id": "795d16b0-c895-44e0-bf19-3229da3d2dfe",
+      "sessionId": "54f49da6-cc4e-47bf-897f-26d3f55aa3d8",
+      "role": "assistant",
+      "text": "I hear you mentioning something about variations in conditions—what does that feel like for you right now?",
+      "createdAt": "2026-11-05T05:02:57.364Z"
+    },
+    {
+      "id": "08f648c6-482d-4961-81ca-dfba0fde1e2d",
+      "sessionId": "54f49da6-cc4e-47bf-897f-26d3f55aa3d8",
+      "role": "user",
+      "text": "in life change is only constant right",
+      "createdAt": "2026-11-05T05:03:23.247Z"
+    },
+    {
+      "id": "9ca61535-78d2-4ce5-887f-2ac9f7663bc0",
+      "sessionId": "54f49da6-cc4e-47bf-897f-26d3f55aa3d8",
+      "role": "assistant",
+      "text": "It sounds like you’re reflecting on how change is the only constant in life—how does that realization affect you today?",
+      "createdAt": "2026-11-05T05:03:23.930Z"
+    },
+    {
+      "id": "6e8ae6ce-7723-4488-9676-6a7abeb5135f",
+      "sessionId": "988b8d4b-5cc3-48d2-a60a-3c8670f783ad",
+      "role": "assistant",
+      "text": "Hi! How are you feeling about the birthday celebration tomorrow?",
+      "createdAt": "2026-11-05T05:26:59.577Z"
+    },
+    {
+      "id": "f854725f-f64b-4320-a5d6-05e9496730bd",
+      "sessionId": "988b8d4b-5cc3-48d2-a60a-3c8670f783ad",
+      "role": "user",
+      "text": "better because birthday alredy happpende so don't ask again",
+      "createdAt": "2026-11-05T05:27:31.655Z"
+    },
+    {
+      "id": "9a1c3c29-849f-4cc9-9bb7-1f4d271ac36b",
+      "sessionId": "988b8d4b-5cc3-48d2-a60a-3c8670f783ad",
+      "role": "assistant",
+      "text": "I’m glad you’re feeling better now that the birthday has passed. How did the celebration go for you?",
+      "createdAt": "2026-11-05T05:27:32.129Z"
+    },
+    {
+      "id": "d452e944-b28b-4f53-b026-078f030c0b2f",
+      "sessionId": "988b8d4b-5cc3-48d2-a60a-3c8670f783ad",
+      "role": "user",
+      "text": "i got good gifts and yeah maybe should have invited more",
+      "createdAt": "2026-11-05T05:28:11.401Z"
+    },
+    {
+      "id": "d39d6599-d3b4-4151-ac6f-e324ac48be2f",
+      "sessionId": "988b8d4b-5cc3-48d2-a60a-3c8670f783ad",
+      "role": "assistant",
+      "text": "It sounds like you’re reflecting on the celebration and feeling a bit of regret about inviting more people. That’s a common thought after a big event.",
+      "createdAt": "2026-11-05T05:28:12.141Z"
+    },
+    {
+      "id": "07198146-4876-481f-ae59-c7acd9ae8b35",
+      "sessionId": "aefccccf-8340-43a0-a580-c52b8b5620f8",
+      "role": "assistant",
+      "text": "Hey there! I hear you’re feeling a bit of regret about the birthday celebration. What was going through your mind when you realized you hadn’t invited more people?",
+      "createdAt": "2026-11-05T05:31:49.452Z"
+    },
+    {
+      "id": "9e8afbc9-fe39-4d1a-badc-997bafb1d677",
+      "sessionId": "aefccccf-8340-43a0-a580-c52b8b5620f8",
+      "role": "user",
+      "text": "no regrests or regrests alwys this happens with me grass is grneener on the other side",
+      "createdAt": "2026-11-05T05:32:34.314Z"
+    },
+    {
+      "id": "fa717a1a-eef8-4c8d-8e01-24f1cf3a2f1d",
+      "sessionId": "aefccccf-8340-43a0-a580-c52b8b5620f8",
+      "role": "assistant",
+      "text": "It sounds like you’re noticing that feeling of missing out or wishing things were different, which can be tough. What’s one small thing you might do next time to feel more at ease with those moments?",
+      "createdAt": "2026-11-05T05:32:35.067Z"
+    },
+    {
+      "id": "03d426e9-d693-476c-bb59-9bcc113a7df0",
+      "sessionId": "85962fa5-92a2-4459-88e4-370935f425e5",
+      "role": "assistant",
+      "text": "Hey there! How are you feeling about your friend's birthday tomorrow?",
+      "createdAt": "2026-11-05T05:33:33.041Z"
+    },
+    {
+      "id": "fae2d6ae-e4fb-430d-a589-0564825d33c7",
+      "sessionId": "dc235c31-173c-469c-aa40-56ce2433518a",
+      "role": "assistant",
+      "text": "Hey there! How are you feeling about the final submission coming up?",
+      "createdAt": "2026-11-05T05:52:18.259Z"
+    },
+    {
+      "id": "dac71303-f1b4-46b5-99c1-62e8b7150de1",
+      "sessionId": "dc235c31-173c-469c-aa40-56ce2433518a",
+      "role": "user",
+      "text": "nithing much to feel it's alredy completed so  writ it down and do not ask again please",
+      "createdAt": "2026-11-05T05:52:47.820Z"
+    },
+    {
+      "id": "c76f6826-f1f8-4ef6-8f1d-922b9b1be007",
+      "sessionId": "dc235c31-173c-469c-aa40-56ce2433518a",
+      "role": "assistant",
+      "text": "I hear you’ve finished the project—congratulations on getting it done!",
+      "createdAt": "2026-11-05T05:52:48.639Z"
+    },
+    {
+      "id": "aee2851f-591e-4109-a2f8-26f70544d1a5",
+      "sessionId": "0f835dd2-4fc1-410a-ab03-58da9ae07340",
+      "role": "assistant",
+      "text": "Hey there! How did you feel when you finished submitting your project?",
+      "createdAt": "2026-11-05T06:13:18.473Z"
+    },
+    {
+      "id": "fbcb6328-2c87-4155-8d0a-0639cfcf0e58",
+      "sessionId": "0f835dd2-4fc1-410a-ab03-58da9ae07340",
+      "role": "user",
+      "text": "Hi.",
+      "createdAt": "2026-11-05T06:13:32.969Z"
+    },
+    {
+      "id": "d7681e3b-5d3b-4942-a622-b2eb060c7f7e",
+      "sessionId": "0f835dd2-4fc1-410a-ab03-58da9ae07340",
+      "role": "assistant",
+      "text": "Hello! How are you feeling today?",
+      "createdAt": "2026-11-05T06:13:34.109Z"
+    },
+    {
+      "id": "72be6d7d-69f3-4c90-a10a-9ac4ed934020",
+      "sessionId": "6d4ee849-ddd3-42f3-95cf-427e6a1c1f23",
+      "role": "assistant",
+      "text": "Hey there! How did you feel when you finished the project?",
+      "createdAt": "2026-11-05T06:22:25.996Z"
+    },
+    {
+      "id": "dd84bad0-501e-4c04-bb1c-d1e8cb89c0a1",
+      "sessionId": "6d4ee849-ddd3-42f3-95cf-427e6a1c1f23",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2026-11-05T06:23:12.916Z"
+    },
+    {
+      "id": "9c0fe460-7fa2-4040-99ee-597be3b3eb1f",
+      "sessionId": "6d4ee849-ddd3-42f3-95cf-427e6a1c1f23",
+      "role": "assistant",
+      "text": "Hello! How are you feeling today?",
+      "createdAt": "2026-11-05T06:23:14.707Z"
+    },
+    {
+      "id": "f21bdb59-3ed6-4fb9-9a59-b6cdbc7b9b6b",
+      "sessionId": "e00914c1-63e6-47a5-b972-d466b73d4c51",
+      "role": "assistant",
+      "text": "Hey there! How are you feeling about your friend’s birthday tomorrow?",
+      "createdAt": "2026-11-05T06:31:59.234Z"
+    },
+    {
+      "id": "861553a6-fccf-4389-a0d1-acd48a275b07",
+      "sessionId": "1de0fd11-bc8b-4c23-8a0d-8f95001475a5",
+      "role": "assistant",
+      "text": "Hey there! How are you planning to manage your workload for the upcoming final?",
+      "createdAt": "2026-11-05T06:37:55.757Z"
+    },
+    {
+      "id": "4f2eb226-e469-4b4b-9fa8-e24a0e1777a4",
+      "sessionId": "1de0fd11-bc8b-4c23-8a0d-8f95001475a5",
+      "role": "user",
+      "text": ".",
+      "createdAt": "2026-11-05T06:38:04.343Z"
+    },
+    {
+      "id": "c936de23-1a49-40a5-8bc1-f7fb5c5426da",
+      "sessionId": "1de0fd11-bc8b-4c23-8a0d-8f95001475a5",
+      "role": "assistant",
+      "text": "I hear that you might be feeling a bit uncertain right now. Would you like to share what’s on your mind?",
+      "createdAt": "2026-11-05T06:38:05.950Z"
+    },
+    {
+      "id": "b78be2f3-3bcf-4cd4-806f-2c07037afdc7",
+      "sessionId": "1de0fd11-bc8b-4c23-8a0d-8f95001475a5",
+      "role": "user",
+      "text": "nthing much man just chilling",
+      "createdAt": "2026-11-05T06:38:30.339Z"
+    },
+    {
+      "id": "a921f21a-befb-466c-8e57-346b4a619067",
+      "sessionId": "1de0fd11-bc8b-4c23-8a0d-8f95001475a5",
+      "role": "assistant",
+      "text": "Sounds like a relaxed vibe—just taking it easy. Anything you’d like to explore or share while you’re chilling?",
+      "createdAt": "2026-11-05T06:38:31.111Z"
+    },
+    {
+      "id": "7beedef1-28d1-4029-8579-1e4f785c7d4f",
+      "sessionId": "2d80411c-e010-492c-b2d5-98b001f7d0dd",
+      "role": "assistant",
+      "text": "Hi there! I hear you’ve been having trouble sleeping because of exam stress. How’s the workload feeling right now?",
+      "createdAt": "2026-11-05T15:31:21.413Z"
+    },
+    {
+      "id": "893a679a-5dec-4c8f-9b74-a13972885a88",
+      "sessionId": "2d80411c-e010-492c-b2d5-98b001f7d0dd",
+      "role": "user",
+      "text": "can you write for me once i will feel happy write that i am happy in your ntoes",
+      "createdAt": "2026-11-05T15:32:10.985Z"
+    },
+    {
+      "id": "2935867c-4a83-4f72-90ab-831af1b67607",
+      "sessionId": "2d80411c-e010-492c-b2d5-98b001f7d0dd",
+      "role": "assistant",
+      "text": "I’ll jot that down—when you feel happy, you’ll want to remember that feeling.",
+      "createdAt": "2026-11-05T15:32:11.456Z"
+    },
+    {
+      "id": "04dad3ae-78ec-4a32-bd1a-6dd275724b3d",
+      "sessionId": "67927af8-8aaf-45e0-bfcb-69fcc8838ebb",
+      "role": "assistant",
+      "text": "Hey there! How are your pets doing today?",
+      "createdAt": "2026-11-05T18:15:31.072Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": "0c0bb973-b73f-47ef-8f32-72aed4336179",
+      "userId": "local",
+      "sessionId": "86835ec5-7b34-4b40-9b03-45a1cf7bafb6",
+      "category": "preference",
+      "text": "User's name is Charan; wants to be addressed by name in future chats.",
+      "createdAt": "2026-11-03T04:53:16.446Z"
+    },
+    {
+      "id": "783391b3-46a6-4733-bd77-477992e4e383",
+      "userId": "local",
+      "sessionId": "4b4772f8-7b14-4aa1-8fae-2fe48c84de82",
+      "category": "preference",
+      "text": "User's name is Charan.",
+      "createdAt": "2026-11-03T09:01:24.615Z"
+    },
+    {
+      "id": "b9ea1773-5a18-4c32-9754-d954d7b64b52",
+      "userId": "local",
+      "sessionId": "60bb894e-4538-46c9-9967-797ae8d8053f",
+      "category": "preference",
+      "text": "User's dog is named Suzie.",
+      "createdAt": "2026-11-03T09:06:17.500Z"
+    },
+    {
+      "id": "9681608e-1b55-4399-9b00-5dc3611497a8",
+      "userId": "local",
+      "sessionId": "42b5a092-b191-4a37-a40a-479a5ff7884b",
+      "category": "important_event",
+      "text": "User brought home a cat named Jim.",
+      "createdAt": "2026-11-03T09:22:12.393Z"
+    },
+    {
+      "id": "a3a7d918-9943-4312-a025-f4250c20dbbc",
+      "userId": "local",
+      "sessionId": "2bcf9408-a2fb-4c59-b7ed-5a83131b0119",
+      "category": "important_event",
+      "text": "User brought home a cat named Jim.",
+      "createdAt": "2026-11-03T09:32:00.274Z"
+    },
+    {
+      "id": "6ae5ef1d-7159-4674-8e39-f8750db7061c",
+      "userId": "local",
+      "sessionId": "fb3d65a9-028c-4837-aa74-2410dc86338b",
+      "category": "follow_up",
+      "text": "User’s book titled Suize, to discuss later",
+      "createdAt": "2026-11-03T10:12:24.023Z"
+    },
+    {
+      "id": "8583de5d-942d-4256-b359-9b86703b12cc",
+      "userId": "local",
+      "sessionId": "40a3bff5-bd29-408f-b0ba-62a778663f16",
+      "category": "preference",
+      "text": "Stranger Things is Charan’s favorite series.",
+      "createdAt": "2026-11-03T10:23:16.076Z"
+    },
+    {
+      "id": "b506fc87-fb86-44eb-a903-2d09ea84a230",
+      "userId": "local",
+      "sessionId": "18b997b7-0e8c-41df-83e7-3570d7c72114",
+      "category": "explicitly_stated_emotion",
+      "text": "User reports feeling tension-free after completing project part.",
+      "createdAt": "2026-11-03T16:44:10.083Z"
+    },
+    {
+      "id": "844eeb81-1f6e-475f-9587-ddbfdc535514",
+      "userId": "local",
+      "sessionId": "19b512cc-fb79-456d-80db-7c6144c00897",
+      "category": "follow_up",
+      "text": "User wants to discuss evaluation concerns next session.",
+      "createdAt": "2026-11-03T18:59:38.269Z"
+    },
+    {
+      "id": "145da475-c5f2-47ec-b82a-640a2af2da6c",
+      "userId": "local",
+      "sessionId": "215947b3-1111-468b-8bbd-73c4a122c33b",
+      "category": "important_event",
+      "text": "User’s birthday tomorrow.",
+      "createdAt": "2026-11-04T03:57:34.149Z"
+    },
+    {
+      "id": "056de167-8867-4ae3-8055-b4a95eab2f10",
+      "userId": "local",
+      "sessionId": "988b8d4b-5cc3-48d2-a60a-3c8670f783ad",
+      "category": "automatic_thought",
+      "text": "User feels regret about not inviting more people to birthday celebration.",
+      "createdAt": "2026-11-05T05:28:12.135Z"
+    },
+    {
+      "id": "749a0ad7-5794-485f-9884-23fb906d9fc8",
+      "userId": "local",
+      "sessionId": "dc235c31-173c-469c-aa40-56ce2433518a",
+      "category": "important_event",
+      "text": "User completed project submission",
+      "createdAt": "2026-11-05T05:52:48.633Z"
+    },
+    {
+      "id": "2bc510b6-7a92-4681-a611-843c36511182",
+      "userId": "local",
+      "sessionId": "206de86d-864b-4bf2-b33d-0b1fe894ef18",
+      "category": "automatic_thought",
+      "text": "Sleeping badly this week due to exam stress.",
+      "createdAt": "2026-11-05T14:09:13.997Z"
+    },
+    {
+      "id": "11fa8a2a-04ee-4e11-9898-1f86fa2dd104",
+      "userId": "local",
+      "sessionId": "2d80411c-e010-492c-b2d5-98b001f7d0dd",
+      "category": "explicitly_stated_emotion",
+      "text": "User will feel happy and wants that noted.",
+      "createdAt": "2026-11-05T15:32:11.451Z"
+    },
+    {
+      "id": "91b5af43-5fe4-4ad5-9ac6-21e8e99b1fa3",
+      "userId": "local",
+      "sessionId": "35541b7e-5702-42f6-943a-6c13d60369f7",
+      "category": "automatic_thought",
+      "text": "User reports poor sleep due to exam stress this week.",
+      "createdAt": "2026-11-05T16:18:13.511Z"
+    }
+  ],
+  "memories": [
+    {
+      "id": "1d9255b2-d1d4-489b-b742-9cab1f04d451",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User's name is Charan",
+      "createdAt": "2026-11-03T05:01:05.006Z"
+    },
+    {
+      "id": "68b9e97c-9f34-4257-8a25-65fb0b25de8e",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "Charan is anticipating a positive event today.",
+      "createdAt": "2026-11-03T05:06:26.607Z"
+    },
+    {
+      "id": "7aa88250-f757-4635-97fe-ccb42c13d432",
+      "userId": "local",
+      "category": "important_event",
+      "text": "Received an 'O' grade in their favorite subject",
+      "createdAt": "2026-11-03T08:59:45.904Z"
+    },
+    {
+      "id": "f22373ea-d0c2-4ccf-baad-bb713cdc33b9",
+      "userId": "local",
+      "category": "preference",
+      "text": "User's name is Charan.",
+      "createdAt": "2026-11-03T09:21:30.941Z"
+    },
+    {
+      "id": "cf561ff2-0637-487a-abca-88fe75f07b30",
+      "userId": "local",
+      "category": "preference",
+      "text": "User's dog is named Suzie.",
+      "createdAt": "2026-11-03T09:21:31.251Z"
+    },
+    {
+      "id": "ecb6fef0-3bfe-44df-a459-e80f8859ab8e",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User's dog's name is Suzie",
+      "createdAt": "2026-11-03T09:21:31.253Z"
+    },
+    {
+      "id": "d28660ce-b7bc-4122-8fb6-22bb1d55a89b",
+      "userId": "local",
+      "category": "important_event",
+      "text": "User brought home a cat named Jim.",
+      "createdAt": "2026-11-03T09:31:05.798Z"
+    },
+    {
+      "id": "9a13df21-eb06-4a5a-813d-f6d44af2acea",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User has a cat named Jim and a dog named Suzie.",
+      "createdAt": "2026-11-03T09:31:05.799Z"
+    },
+    {
+      "id": "08e05da2-e9d2-422b-aa30-23226d1ab166",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "User may be carrying a heavy load and needs to focus on self-care.",
+      "createdAt": "2026-11-03T09:31:05.801Z"
+    },
+    {
+      "id": "40c9a8d7-b3d4-4e5a-9430-555d15d19364",
+      "userId": "local",
+      "category": "follow_up",
+      "text": "Ask about how user is taking care of themselves today.",
+      "createdAt": "2026-11-03T09:31:05.803Z"
+    },
+    {
+      "id": "f56f004c-1aa1-4ac5-95ce-10ef03eb9936",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "Cat named Jim",
+      "createdAt": "2026-11-03T14:07:46.323Z"
+    },
+    {
+      "id": "8f29df78-16a8-4eb0-acb1-fb5fa08e036b",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "Dog named Suzie",
+      "createdAt": "2026-11-03T14:07:46.325Z"
+    },
+    {
+      "id": "e394ecec-9ca5-485e-8110-871ed0a7949f",
+      "userId": "local",
+      "category": "follow_up",
+      "text": "User’s book titled Suize, to discuss later",
+      "createdAt": "2026-11-03T14:07:48.531Z"
+    },
+    {
+      "id": "a8735d64-aebd-4a18-b84b-70595b8d5cc6",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User wrote a book titled Suize.",
+      "createdAt": "2026-11-03T14:07:48.535Z"
+    },
+    {
+      "id": "00f403d1-e5be-467d-8382-10a0a7a34320",
+      "userId": "local",
+      "category": "follow_up",
+      "text": "Discuss the book Suize in a future session.",
+      "createdAt": "2026-11-03T14:07:48.537Z"
+    },
+    {
+      "id": "abeedbad-0bb6-4c91-8878-ccf039c98e43",
+      "userId": "local",
+      "category": "preference",
+      "text": "Stranger Things is Charan’s favorite series.",
+      "createdAt": "2026-11-03T14:07:49.466Z"
+    },
+    {
+      "id": "6010620c-1de9-433c-a5da-39499b22081d",
+      "userId": "local",
+      "category": "preference",
+      "text": "Favorite series: Stranger Things",
+      "createdAt": "2026-11-03T14:07:49.469Z"
+    },
+    {
+      "id": "e8bf5f13-4862-4760-8ed7-816d25b93a28",
+      "userId": "local",
+      "category": "follow_up",
+      "text": "Ask about pets next session",
+      "createdAt": "2026-11-03T14:07:49.472Z"
+    },
+    {
+      "id": "801fae4c-9d5b-4152-9533-794155a3bb77",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "Pet names: cat Jim, dog Suzie",
+      "createdAt": "2026-11-03T16:42:28.029Z"
+    },
+    {
+      "id": "13e2d718-4737-46a9-bf07-c40a415041ab",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User reports feeling tension-free after completing project part.",
+      "createdAt": "2026-11-03T17:41:05.002Z"
+    },
+    {
+      "id": "5ecfc32f-89a9-4968-82c5-b8c8fd20fc60",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User feels proud of project progress and tension-free after completing their part.",
+      "createdAt": "2026-11-03T17:41:05.016Z"
+    },
+    {
+      "id": "b1d265fb-005d-450c-aebc-32024bb5ee5d",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "User wants to talk about emotional triggers (ets).",
+      "createdAt": "2026-11-03T17:41:05.018Z"
+    },
+    {
+      "id": "93f1673c-eb56-49db-b31c-38ba8ccb3910",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User finds pets comforting, likening them to a quiet companion similar to an old lover.",
+      "createdAt": "2026-11-03T17:41:08.230Z"
+    },
+    {
+      "id": "5cbe933a-0cc9-4dc6-84bb-fa178515ef98",
+      "userId": "local",
+      "category": "preference",
+      "text": "Prefers to talk after a walk.",
+      "createdAt": "2026-11-03T18:57:16.134Z"
+    },
+    {
+      "id": "058ef038-bc58-484b-8770-01b86ee67105",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "Finished work early and is relaxing on the sofa.",
+      "createdAt": "2026-11-03T18:57:16.137Z"
+    },
+    {
+      "id": "f55584a3-5962-4295-a30f-09b38e29a5e8",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "Thinking about their pets.",
+      "createdAt": "2026-11-03T18:57:16.138Z"
+    },
+    {
+      "id": "579adcd3-cd7f-43ed-893b-2b245139eaf2",
+      "userId": "local",
+      "category": "follow_up",
+      "text": "User wants to discuss evaluation concerns next session.",
+      "createdAt": "2026-11-04T03:54:53.316Z"
+    },
+    {
+      "id": "5605e367-6de7-4729-b146-e346e606a18d",
+      "userId": "local",
+      "category": "follow_up",
+      "text": "Discuss evaluation concerns next session.",
+      "createdAt": "2026-11-04T03:54:53.319Z"
+    },
+    {
+      "id": "ae3c1f57-8f8b-4c36-8001-a615d5b93881",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "Anxiety about project evaluation.",
+      "createdAt": "2026-11-04T03:54:53.321Z"
+    },
+    {
+      "id": "f46623f3-ae85-4134-9eb8-24d98282b92d",
+      "userId": "local",
+      "category": "important_event",
+      "text": "User’s birthday tomorrow.",
+      "createdAt": "2026-11-04T04:24:33.824Z"
+    },
+    {
+      "id": "8f27830b-4a70-476c-93fb-fc116d98a72a",
+      "userId": "local",
+      "category": "follow_up",
+      "text": "Remember user’s birthday tomorrow",
+      "createdAt": "2026-11-04T04:24:33.828Z"
+    },
+    {
+      "id": "7b57768d-deaa-414e-a1c1-92bd5f24af22",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User has an upcoming final submission and is concerned about workload",
+      "createdAt": "2026-11-04T04:24:33.833Z"
+    },
+    {
+      "id": "b1010361-af11-4585-8d0c-99e94fb0cd8c",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "Anxiety about socializing at friend's birthday",
+      "createdAt": "2026-11-04T04:30:22.325Z"
+    },
+    {
+      "id": "132c5c03-d77d-46ae-ac33-8de5841a32f5",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "Friend's birthday tomorrow",
+      "createdAt": "2026-11-04T04:30:22.328Z"
+    },
+    {
+      "id": "6e68fa15-52b3-4b20-a3b4-28c6748fd047",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "Anxiety about social expectations and feeling alone during celebrations.",
+      "createdAt": "2026-11-04T10:43:21.409Z"
+    },
+    {
+      "id": "869c8d4c-61c8-4572-a9a5-1e121e74d5b7",
+      "userId": "local",
+      "category": "goal",
+      "text": "Desire to feel less anxious during social events and receive encouragement.",
+      "createdAt": "2026-11-04T10:43:21.411Z"
+    },
+    {
+      "id": "07396027-821d-4edb-aa15-cda792603498",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "evaluation concerns",
+      "createdAt": "2026-11-05T04:23:31.155Z"
+    },
+    {
+      "id": "7b113dcb-e491-474d-b2cc-9383c590ec52",
+      "userId": "local",
+      "category": "coping_strategy",
+      "text": "preparing for evaluation concerns",
+      "createdAt": "2026-11-05T04:23:31.158Z"
+    },
+    {
+      "id": "c287623f-be04-4d0d-a611-83e5bab59481",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "Anxious about upcoming project evaluation.",
+      "createdAt": "2026-11-05T04:23:34.631Z"
+    },
+    {
+      "id": "4fa689bd-1e4d-4598-b81d-e6f13d7ab127",
+      "userId": "local",
+      "category": "goal",
+      "text": "Wants to feel less anxious at social events",
+      "createdAt": "2026-11-05T04:23:36.642Z"
+    },
+    {
+      "id": "d003ef4b-fd0c-4d68-abd8-0eb5eb5fe60c",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "User reflects that change is the only constant in life",
+      "createdAt": "2026-11-05T05:31:21.033Z"
+    },
+    {
+      "id": "ba1b4fb4-86fa-448f-ad3e-f1a5928641df",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User feels regret about not inviting more people to birthday celebration.",
+      "createdAt": "2026-11-05T05:31:21.758Z"
+    },
+    {
+      "id": "88ad288e-f573-4193-91e7-6a8e00a99e13",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "Regret about not inviting more people to birthday celebration",
+      "createdAt": "2026-11-05T05:31:21.762Z"
+    },
+    {
+      "id": "09c9a92b-e848-4acb-84de-faa8004900e0",
+      "userId": "local",
+      "category": "recurring_concern",
+      "text": "Feeling of missing out or wishing things were different after events.",
+      "createdAt": "2026-11-05T06:09:40.463Z"
+    },
+    {
+      "id": "e8604560-6b1d-416f-90ed-280e7e4b4214",
+      "userId": "local",
+      "category": "important_event",
+      "text": "User completed project submission",
+      "createdAt": "2026-11-05T06:09:42.341Z"
+    },
+    {
+      "id": "bc64a8ae-9394-4735-9c42-72805aab50b1",
+      "userId": "local",
+      "category": "important_event",
+      "text": "Project completed",
+      "createdAt": "2026-11-05T06:09:42.355Z"
+    },
+    {
+      "id": "06dd1091-5943-48a6-8766-93a6bc39bc30",
+      "userId": "local",
+      "category": "relevant_context",
+      "text": "User will feel happy and wants that noted.",
+      "createdAt": "2026-11-05T15:33:36.110Z"
+    },
+    {
+      "id": "0d3b943b-4c38-42af-bfc4-74029f97e573",
+      "userId": "local",
+      "category": "goal",
+      "text": "Write a note stating they are happy",
+      "createdAt": "2026-11-05T15:33:36.119Z"
+    }
+  ],
+  "safety_events": []
+}

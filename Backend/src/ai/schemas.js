@@ -58,6 +58,36 @@ export const SessionEndExtractionSchema = z.object({
   })).max(5).default([])
 });
 
+export const PersonalizedCardRequestSchema = z.strictObject({
+  sessionId: z.string().trim().min(1).max(128),
+  consent: z.literal(true),
+  memoryIds: z.array(z.string().trim().min(1).max(128))
+    .max(3)
+    .refine(ids => new Set(ids).size === ids.length, {
+      message: 'Memory IDs must be unique'
+    })
+});
+
+export const CircleCardSuitabilitySchema = z.strictObject({
+  assessments: z.array(z.strictObject({
+    index: z.number().int().min(0).max(2),
+    eligible: z.boolean(),
+    confidence: z.enum(['high', 'uncertain']),
+    context: z.string().max(120)
+  })).max(3)
+});
+
+export const CircleControlCardSchema = z.strictObject({
+  text: z.string().trim().min(1).max(90),
+  category: z.enum(['within_control', 'outside_control']),
+  reflection: z.string().trim().min(1).max(180),
+  nuanced: z.boolean()
+});
+
+export const CircleControlCardsSchema = z.strictObject({
+  cards: z.array(CircleControlCardSchema).min(1).max(3)
+});
+
 // Full ChatResponse schema per Section 4.2
 export const ChatResponseSchema = z.object({
   speech: z.string(),

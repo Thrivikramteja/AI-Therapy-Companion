@@ -20,6 +20,7 @@ export const config = {
   // AI / LLM
   llmProvider: process.env.LLM_PROVIDER || 'groq',
   groqApiKey: process.env.GROQ_API_KEY || '',
+  groqApiKeyFallback: process.env.GROQ_API_KEY_FALLBACK || '',
   groqChatModel: process.env.GROQ_CHAT_MODEL || 'qwen/qwen3.8-27b',
   groqSttModel: process.env.GROQ_STT_MODEL || 'whisper-large-v3',
   

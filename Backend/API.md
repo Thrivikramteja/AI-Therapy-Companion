@@ -25,11 +25,54 @@ This document mirrors Section 4 of the Master Team Plan v2 and serves as the sin
 | `/memories` | `GET` | Query param `?userId=local` | `{ "memories": [ { "id", "category", "text", "createdAt" } ] }` | Returns long-term active memories |
 | `/memories/:id` | `DELETE` | *None* | `{ "ok": true }` | Deletes a specific memory |
 | `/data` | `DELETE` | Query param `?userId=local` | `{ "ok": true }` | Clears all data for user (sessions, messages, notes, memories, safety events) |
+| `/activities/circle-of-control/personalized-cards` | `POST` | See Section 2 | `{ "personalized": true, "cards": [...] }` or safe empty fallback | Optional, consent-based reflection cards from selected memories |
 | `/audio/:id.wav` | `GET` | *None* | Audio binary (`audio/wav`) | Serves 24 kHz mono 16-bit PCM WAV for avatar speech playback |
 
 ---
 
-## 2. ChatResponse Specification
+## 2. Personalized Circle of Control Cards
+
+Unity should continue showing its predefined cards first. Only after the user explicitly opts in and selects up to three memories should it disclose that the selected memories may be sent to Groq and call this endpoint.
+
+`POST /activities/circle-of-control/personalized-cards`
+
+```json
+{
+  "sessionId": "existing-active-session-id",
+  "consent": true,
+  "memoryIds": ["memory-id-1", "memory-id-2"]
+}
+```
+
+- `consent` must be exactly `true`. `userId` and raw memory text are not accepted.
+- `sessionId` must identify an existing active session. The backend derives the user scope from that session.
+- `memoryIds` must contain at most three unique IDs. Each ID must resolve to a memory belonging to the session user.
+- The backend screens only the selected memories, then sends approved high-level context (not the original memory text) to a separate card-generation request.
+- Successful response:
+
+```json
+{
+  "personalized": true,
+  "cards": [
+    {
+      "text": "What small step could support this goal?",
+      "category": "within_control",
+      "reflection": "Small choices can help you move at your own pace.",
+      "nuanced": false
+    }
+  ]
+}
+```
+
+`category` is `within_control` or `outside_control`; `nuanced` is a boolean. The response has one to three cards. Text and reflection are bounded for the Unity card layout.
+
+When no selected memory is suitable, assessment or generation fails, or model output is invalid, the endpoint responds with HTTP 200 and `{ "personalized": false, "cards": [] }`; Unity should retain/use its predefined cards. Invalid requests return the standard error envelope with HTTP 400; an unknown session returns HTTP 404. Generated cards are not persisted or added to chat, notes, or memories.
+
+This screening is conservative but does not guarantee psychological safety. The backend currently has no authentication middleware; deriving user scope from a session is not production-grade multi-user authentication.
+
+---
+
+## 3. ChatResponse Specification
 
 Returned by `POST /chat` and inside `POST /session/start` (in `greeting`):
 
@@ -63,7 +106,7 @@ Returned by `POST /chat` and inside `POST /session/start` (in `greeting`):
 
 ---
 
-## 3. Error Responses
+## 4. Error Responses
 
 All non-2xx responses adhere to the standard schema:
 
@@ -88,7 +131,7 @@ All non-2xx responses adhere to the standard schema:
 
 ---
 
-## 4. Unity C# DTOs (Newtonsoft JSON)
+## 5. Unity C# DTOs (Newtonsoft JSON)
 
 Member 4 can copy these directly into Unity:
 
@@ -210,7 +253,7 @@ public class ApiErrorDto {
 
 ---
 
-## 5. Safety & Crisis Protocol
+## 6. Safety & Crisis Protocol
 When user input triggers crisis safety patterns (or the LLM detects imminent self-harm/suicide):
 1. The backend overrides any LLM text with a pre-scripted, supportive message:
    `"I hear how much pain you're in, and I want you to be safe. I cannot provide emergency support, but you don't have to carry this alone. Please reach out to one of the crisis resources shown right now."`
